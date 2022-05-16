@@ -32,6 +32,19 @@
 
 <br>
 
+## _Introduction_ :
+
+Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+
+<br>
+
 ## _Research Parameters_:
 
 <br>
@@ -264,7 +277,32 @@ function distribute() {
 
 <br>
 
-## Resources:
+## _Conclusion_ :
+
+-
+-
+-
+
+<br>
+
+---
+
+<br>
+
+## _Sources :_
+
+<br>
+
+-
+-
+
+<br>
+
+---
+
+<br>
+
+## _Resources_:
 
 <br>
 
