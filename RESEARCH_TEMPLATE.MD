@@ -220,13 +220,15 @@ function mint() {
 - **_Buying Process :_**
 
   -
-  - <br>
+  -
 
-  ```javascript
-  function buy() {
-    return "Congrats! You bought NFT for 1 ETH";
-  }
-  ```
+<br>
+
+```javascript
+function buy() {
+  return "Congrats! You bought NFT for 1 ETH";
+}
+```
 
 <br>
 
@@ -248,21 +250,23 @@ function fillOrder() {
 - **_Funds Distribution :_**
 
   -
-  - <br>
+  -
 
-  ```javascript
-  function distribute() {
-    return "Funds distributed sucesfuly";
-  }
-  ```
+<br>
 
-  ***
+```javascript
+function distribute() {
+  return "Funds distributed sucesfuly";
+}
+```
 
-    <br>
+---
 
-  ## Resources:
+<br>
 
-    <br>
-    
-  - [NFT Recourses](https://github.com/gianni-dalerta/awesome-nft)
-  - [Marketplaces Sheet](https://docs.google.com/spreadsheets/d/1Q_6GnX7DhFDBD4hHKaMUkesMIO9rxJx5ewcKVv4Tjag/edit)
+## Resources:
+
+<br>
+
+- [NFT Recourses](https://github.com/gianni-dalerta/awesome-nft)
+- [Marketplaces Sheet](https://docs.google.com/spreadsheets/d/1Q_6GnX7DhFDBD4hHKaMUkesMIO9rxJx5ewcKVv4Tjag/edit)
