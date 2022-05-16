@@ -4,7 +4,9 @@
 
 <br>
 
-## Team :
+## **Team** :
+
+<br>
 
 | _Name :_                |        _Email :_         | _Role :_ |
 | :---------------------- | :----------------------: | -------: |
@@ -25,6 +27,12 @@
 | _Muhammad Kashif Nawaz_ |     *demo@gmail.com*     |  No Role |
 | _Umair Riaz_            |     *demo@gmail.com*     |  No Role |
 | _Zaeem Tariq_           |     *demo@gmail.com*     |  No Role |
+
+---
+
+<br>
+
+## _Research Parameters_:
 
 <br>
 
@@ -55,6 +63,9 @@
 ---
 
 <br>
+
+## _Marketplace Contracts_ :
+
 <br>
 
 | Contracts :             |         Details :          |
@@ -67,6 +78,8 @@
 <br>
 
 ---
+
+<br>
 
 ## _Description for Parameters_ :
 
@@ -215,7 +228,7 @@ function mint() {
   }
   ```
 
-   <br>
+<br>
 
 - **_Order Booking :_**
 
@@ -249,5 +262,7 @@ function fillOrder() {
 
   ## Resources:
 
+    <br>
+    
   - [NFT Recourses](https://github.com/gianni-dalerta/awesome-nft)
   - [Marketplaces Sheet](https://docs.google.com/spreadsheets/d/1Q_6GnX7DhFDBD4hHKaMUkesMIO9rxJx5ewcKVv4Tjag/edit)
