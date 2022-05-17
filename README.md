@@ -1,7 +1,7 @@
 # **How to use it**?
 
-1.  _Clone the repo in your local device._
-2.  _Please create a new file in a repo, and its **name** must be the marketplace
+1.  _Clone the repo._
+2.  _Create a new file in a repo, and its **name** must be the marketplace
     name you are researching. For example, **Rarible.md**, **Opensea.md**, **Supertrade.md**._
 
 3.  _Copy the contents of **RESEARCH_TEMPLATE.MD** into your newly created file._
@@ -13,8 +13,6 @@
 ## **NOTICE:**
 
 **Every one is requested to pull the contents before writing anything.**
-
----
 
 <br>
 
