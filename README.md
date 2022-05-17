@@ -39,7 +39,7 @@ git clone https://github.com/ruwaifatahir/Marketplace_research
 
 ```
 git add <filename>
-git add <RESEARCH_TEMPLATE.MD>
+git add RESEARCH_TEMPLATE.MD
 
 git commit -m "Message"
 git commit -m "Add research paper for opensea"
