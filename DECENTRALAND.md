@@ -128,8 +128,6 @@ The Marketplace is the go-to place to trade and manage all your Decentraland on-
 
 - **_Royalties :_**
 
-  - Royalties are coming to Decentraland!
-
   - With the implementation of Royalties in the Decentraland marketplace, only primary market commissions are destined to the DAO, while those in the secondary market now go straight to the creative hands behind the wearables.<br>
 
   - Creators of new and existing collections on Polygon will be able to set a beneficiary address per item in the collection management tool, be it themselves or a third party.
@@ -264,7 +262,7 @@ The Marketplace is the go-to place to trade and manage all your Decentraland on-
 
 - **_Staking :_**
 
-  - It does not offer staking for NFTs but you can stake your mana to earn man
+  - It does not offer staking for NFTs but you can stake your mana to earn mana
 
   <br>
 
