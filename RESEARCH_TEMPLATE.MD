@@ -289,7 +289,7 @@ function distribute() {
 
 <br>
 
-## _Collaborators_ :
+## _Contributors_ :
 
 -
 -

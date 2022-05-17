@@ -363,7 +363,7 @@ function distribute() {
 
 <br>
 
-## _Collaborators_ :
+## _Contributors_ :
 
 - ruwaifatahirr@gmail.com
 -
