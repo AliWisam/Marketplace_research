@@ -38,22 +38,22 @@ All sales in the Foundation market will pay the creator 10% royalties on seconda
 | ----------------------------------- | -------------------------------- |
 | **Supported Blockchains :**         | _Ethereum_ |
 | **Payment Methods :**               | _Ethereum_ |
-| **Buyer Fee :**                     | _lorem ipsum,lorem ipsum,lorem,_ |
-| **Seller Fee :**                    | _lorem ipsum,lorem ipsum,lorem,_ |
-| **Royalties :**                     | _lorem ipsum,lorem ipsum,lorem,_ |
+| **Buyer Fee :**                     | _Percentage:0%_ |
+| **Seller Fee :**                    | _Percentage:5% |
+| **Royalties :**                     | _Percentage:10%_ |
 | **Listing Type/ Selling Methods :** | _lorem ipsum,lorem ipsum,_       |
-| **Categories :**                    | _lorem ipsum,lorem ipsum,lorem,_ |
-| **Recommended Wallets :**           | _lorem ipsum,lorem ipsum,lorem,_ |
-| **File Format :**                   | _lorem ipsum,lorem ipsum,_       |
-| **Max File Size :**                 | _lorem ipsum,lorem ipsum,_       |
-| **Media Storage :**                 | _lorem ipsum,lorem ipsum,_       |
+| **Categories :**                    | _Art,Photo,Video_ |
+| **Recommended Wallets :**           | _Metamask,WalletConnect,Coinbase_ |
+| **File Format :**                   | _.JPG,.MP4,Video_ |
+| **Max File Size :**                 | _50 Megabyte_       |
+| **Media Storage :**                 | _IPFS_   |
 | **Decentralization :**              | _lorem ipsum,lorem ipsum,_       |
 | **Protocol Supported :**            | _lorem ipsum,lorem ipsum,_       |
 | **Ownership :**                     | _lorem ipsum,lorem ipsum,_       |
 | **Licensing :**                     | _lorem ipsum,lorem ipsum,_       |
 | **Governance :**                    | _lorem ipsum,lorem ipsum,_       |
 | **Staking :**                       | _lorem ipsum,lorem ipsum,_       |
-| **KYC :**                           | _lorem ipsum,lorem ipsum,_       |
+| **KYC :**                           | _Twitter,Instagram |
 | **Regulation :**                    | _lorem ipsum,lorem ipsum,_       |
 | **Company Registration :**          | _lorem ipsum,lorem ipsum,_       |
 | **Community Engagement :**          | _lorem ipsum,lorem ipsum,_       |
