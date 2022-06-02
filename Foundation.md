@@ -9,10 +9,9 @@
 <br>
 
 | _Name :_                |        _Email :_         | _Role :_ |
-| :---------------------- | :----------------------: | -------: |
-
-| _Burhan Saleemi_        | *burhansaleemi@tutanota.com* |  Researcher |
-| _Ruwaifa Tahir_         | *ruwaifatahir@gmail.com* |  repo manager  |
+| :----------------- | :--------------------------: | -------------: |
+| _Burhan Saleemi_   | *burhansaleemi@tutanota.com* |  Researcher    |
+| _Ruwaifa Tahir_    | *ruwaifatahir@gmail.com*     |  repo manager  |
 
 ---
 
