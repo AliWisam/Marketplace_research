@@ -39,7 +39,7 @@ All sales in the Foundation market will pay the creator 10% royalties on seconda
 | **Supported Blockchains :**         | _Ethereum_ |
 | **Payment Methods :**               | _Ethereum_ |
 | **Buyer Fee :**                     | _Percentage: 0%_ |
-| **Seller Fee :**                    | _Percentage: 5% |
+| **Seller Fee :**                    | _Percentage: 5%_ |
 | **Royalties :**                     | _Percentage: 10%_ |
 | **Listing Type/ Selling Methods :** | _lorem ipsum,lorem ipsum,_       |
 | **Categories :**                    | _Art,Photo,Video_ |
