@@ -10,8 +10,9 @@
 
 | _Name :_                |        _Email :_         | _Role :_ |
 | :----------------- | :--------------------------: | -------------: |
+| _Ali Wisam_        | *raliwisaam73@gmail.com*     |  Team Leader   |
 | _Burhan Saleemi_   | *burhansaleemi@tutanota.com* |  Researcher    |
-| _Ruwaifa Tahir_    | *ruwaifatahir@gmail.com*     |  repo manager  |
+| _Ruwaifa Tahir_    | *ruwaifatahir@gmail.com*     |  Repository    |
 
 ---
 
@@ -26,7 +27,7 @@ The Foundation marketplace is a contract which allows traders to buy and sell NF
 - Buy Price allows the owner of an NFT to list it for sale at a specific price point. The NFT is escrowed in the market contract when the price is set. Once a collector buys at the price set, the NFT is instantly transferred and revenue is distributed.
 - Offers allow collectors to make an offer for an NFT. The seller has 24-25 hours to accept the offer. During this time, the collector's funds are locked in the FETH ERC-20 contract - ensuring that an offer remains valid until its expiration. If a higher offer is made, the original user's FETH balance is unlocked and they can use those funds elsewhere (or withdraw the ETH).
 
-All sales in the Foundation market will pay the creator 10% royalties on secondary sales. This is not specific to NFTs minted on Foundation, it should work for any NFT. If royalty information was not defined when the NFT was originally deployed, it may be added using the [Royalty Registry](https://royaltyregistry.xyz/) which will be respected by our market contract.
+All sales in the Foundation market will pay the creator 10% royalties on secondary sales. This is not specific to NFTs minted on Foundation, it should work for any NFT. If royalty information was not defined when the NFT was originally deployed, it may be added using the [Royalty Registry](https://royaltyregistry.xyz/) which will be respected by market contract
 <br>
 
 ## _Research Parameters_:
@@ -35,8 +36,8 @@ All sales in the Foundation market will pay the creator 10% royalties on seconda
 
 | Parameters :                        | Details :                        |
 | ----------------------------------- | -------------------------------- |
-| **Supported Blockchains :**         | _lorem ipsum,lorem ipsum,lorem,_ |
-| **Payment Methods :**               | _lorem ipsum,lorem ipsum,lorem,_ |
+| **Supported Blockchains :**         | _lEhterum,_ |
+| **Payment Methods :**               | _lEtherum,_ |
 | **Buyer Fee :**                     | _lorem ipsum,lorem ipsum,lorem,_ |
 | **Seller Fee :**                    | _lorem ipsum,lorem ipsum,lorem,_ |
 | **Royalties :**                     | _lorem ipsum,lorem ipsum,lorem,_ |
