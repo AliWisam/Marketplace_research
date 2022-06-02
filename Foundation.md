@@ -10,23 +10,9 @@
 
 | _Name :_                |        _Email :_         | _Role :_ |
 | :---------------------- | :----------------------: | -------: |
-| _Ali Wisam_             |     *demo@gmail.com*     |   Leader |
-| _Hasan sattar_          |     *demo@gmail.com*     |  No Role |
-| _Zeeshan Ahmad_         |     *demo@gmail.com*     |  No Role |
-| _Burhan Saleemi_        |     *demo@gmail.com*     |  No Role |
-| _Dr Mutahir Hussain_    |     *demo@gmail.com*     |  No Role |
-| _Muhammad Aquib_        |     *demo@gmail.com*     |  No Role |
-| _Muhammad Jehanzaib_    |     *demo@gmail.com*     |  No Role |
-| _Abdul Wahab_           |     *demo@gmail.com*     |  No Role |
-| _M. Umar Shahid_        |     *demo@gmail.com*     |  No Role |
-| _Asif Ali_              |     *demo@gmail.com*     |  No Role |
-| _Ruwaifa Tahir_         | *ruwaifatahir@gmail.com* |  No Role |
-| _M. Shoaib Latif_       |     *demo@gmail.com*     |  No Role |
-| _Muhammad Adil_         |     *demo@gmail.com*     |  No Role |
-| _Mukarram Ali_          |     *demo@gmail.com*     |  No Role |
-| _Muhammad Kashif Nawaz_ |     *demo@gmail.com*     |  No Role |
-| _Umair Riaz_            |     *demo@gmail.com*     |  No Role |
-| _Zaeem Tariq_           |     *demo@gmail.com*     |  No Role |
+
+| _Burhan Saleemi_        | *burhansaleemi@tutanota.com* |  Researcher |
+| _Ruwaifa Tahir_         | *ruwaifatahir@gmail.com* |  repo manager  |
 
 ---
 
