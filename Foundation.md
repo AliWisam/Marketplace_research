@@ -36,8 +36,8 @@ All sales in the Foundation market will pay the creator 10% royalties on seconda
 
 | Parameters :                        | Details :                        |
 | ----------------------------------- | -------------------------------- |
-| **Supported Blockchains :**         | _lEhterum,_ |
-| **Payment Methods :**               | _lEtherum,_ |
+| **Supported Blockchains :**         | _Ethereum_ |
+| **Payment Methods :**               | _Ethereum_ |
 | **Buyer Fee :**                     | _lorem ipsum,lorem ipsum,lorem,_ |
 | **Seller Fee :**                    | _lorem ipsum,lorem ipsum,lorem,_ |
 | **Royalties :**                     | _lorem ipsum,lorem ipsum,lorem,_ |
