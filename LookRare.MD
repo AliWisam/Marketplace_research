@@ -99,24 +99,20 @@ About $18 billion of the trading volume on the platform, or about 95% of the tot
 
 - **_Payment Methods :_**
 
-  -
+  -[Ethereum](https://ethereum.org/en/)
   <br>
 
 - **_Buyer Fee :_**
 
-  -
-  -
-
+  - 0%
   <br>
 
 - **_Seller Fee :_**
   - LooksRare collects a basic sales fee of 2% (in WETH) on all NFT sales excluding private sales. [[Link]](https://docs.looksrare.org/about/rewards/platform-fee)
-  -
   <br>
 
 - **_Royalties :_**
   - Creators will love this feature, as it allows them to get paid for their work instantly. LooksRare supports EIP-2981 royalty standard so that both buyers and sellers can feel confident when transacting.[[Link]](https://learn.bybit.com/nft/what-is-looksrare-looks/)
-  -
   <br>
 
 - **_Listing Type/ Selling Methods :_**
