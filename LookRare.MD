@@ -37,7 +37,7 @@ About $18 billion of the trading volume on the platform, or about 95% of the tot
 | **Supported Blockchains :**         | Ethereum                         |
 | **Payment Methods :**               | Ethereum                         |
 | **Buyer Fee :**                     | 0%                               |
-| **Seller Fee :**                    | 2% excluding private sales.  [3](https://docs.looksrare.org/about/rewards/platform-fee)                             | 
+| **Seller Fee :**                    | 2% excluding private sales.  [[3]](https://docs.looksrare.org/about/rewards/platform-fee)                             | 
 | **Royalties :**                     | _lorem ipsum,lorem ipsum,lorem,_ |
 | **Listing Type/ Selling Methods :** | _lorem ipsum,lorem ipsum,_       |
 | **Categories :**                    | _lorem ipsum,lorem ipsum,lorem,_ |
