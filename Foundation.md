@@ -4,7 +4,7 @@
 
 <br>
 
-## **Team** :
+## **Contributors** :
 
 <br>
 
@@ -196,18 +196,6 @@ _An offer may be made for an NFT before it is minted, although we generally not 
 <br>
 
 ## _Conclusion_ :
-
--
--
--
-
-<br>
-
----
-
-<br>
-
-## _Contributors_ :
 
 -
 -
