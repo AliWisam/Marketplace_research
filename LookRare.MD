@@ -258,11 +258,6 @@ function distribute() {
 ## _Conclusion_ :
 
 - LooksRare NFT marketplace offers unique features that set it aside from its competition. Only time will tell if these features will prevail, but at this point, it looks like LooksRare has a bright future in the NFT space. Buying and selling NFTs on LooksRare is as easy as using OpenSea and if you like rewards for trading NFTs, LooksRare might be worth taking a look at.
--
--
--
-
-<br>
 
 ---
 
