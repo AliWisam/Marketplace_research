@@ -97,7 +97,7 @@ Below is a diagram depicting the marketplace states and transitions for the vari
 
 ## _Contracts Description_ :
 
-This is a brief overview of the contracts used in Foundation for more detailed information you can use the links given in Sources in the end.
+This is a brief overview of the contracts used in Foundation for more detailed information you can use the links given
 
 <br>
 
