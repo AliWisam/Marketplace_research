@@ -10,8 +10,8 @@
 
 | _Name :_                |        _Email :_         |    _Role :_  |
 | :---------------------- | :----------------------: |    -------:  |
-| _Ali Wisam_             |     *demo@gmail.com*     |    Leader    |
-| _Muhammad Aquib_        |     *demo@gmail.com*     |   Researcher |
+| _Ali Wisam_             |     *aliwisaam73@gmail.com *     |    Leader    |
+| _Muhammad Aquib_        |     *aquib20034@gmail.com*     |   Researcher |
 
 ---
 
@@ -81,7 +81,6 @@ About $18 billion of the trading volume on the platform, or about 95% of the tot
 | **Order Booking**       | _lorem ipsum, lorem ipsum_ |
 | **Funcds Distribution** | _lorem ipsum, lorem ipsum_ |
 
-<br>
 
 ---
 
