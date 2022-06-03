@@ -20,7 +20,7 @@
 
 ## _Introduction_ :
 
-The Foundation marketplace is a contract which allows traders to buy and sell NFTs. Previously (the code on mainnet) supported just Auctions and Private Sales. This upcoming launch adds Buy Price and Offers.
+The Foundation marketplace is a contract which allows traders to buy and sell NFTs. Previously (the code on mainnet) supported just Auctions and Private Sales.
 
 - Auctions last for 24 hours. The NFT is escrowed in the market contract when it's listed. As soon as a bid is received the NFT cannot be withdrawn, guaranteeing that the sale will go through and the highest bidder gets the NFT. If a bid is placed in the final minutes of an auction, the countdown timer resets to 15-minutes remaining.
 - Private Sales use a EIP-712 signature from the seller to authorize the trade to a specific buyer / price point. The buyer has 24 hours to accept the offer to buy the NFT before the signature expires.
@@ -68,10 +68,10 @@ All sales in the Foundation market will pay the creator 10% royalties on seconda
 
 | Contracts :             |         Details :          |
 | :---------------------- | :------------------------: |
-| **Minting NFT**         | _lorem ipsum, lorem ipsum_ |
-| **Buying Process**      | _lorem ipsum, lorem ipsum_ |
-| **Order Booking**       | _lorem ipsum, lorem ipsum_ |
-| **Funcds Distribution** | _lorem ipsum, lorem ipsum_ |
+| **FETH**                  | _[ERC-20 token](https://eips.ethereum.org/EIPS/eip-20) modeled after [WETH9](https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2#code)_ |
+| **Market**                | _contract which allows traders to buy and sell NFTs_ |
+| **OpenZeppelin Contracts**| _lorem ipsum, lorem ipsum_ |
+| **Royalty Registry**      | _lorem ipsum, lorem ipsum_ |
 
 <br>
 
@@ -86,7 +86,6 @@ All sales in the Foundation market will pay the creator 10% royalties on seconda
 - **Supported Blockchains :**
 
   - [Ethereum](https://ethereum.org/en/)
-  - [Polygon](https://polygon.technology/)
 
   <br>
 
