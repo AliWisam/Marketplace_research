@@ -20,7 +20,9 @@
 
 ## _Introduction_ :
 
-The Foundation marketplace is a contract which allows traders to buy and sell NFTs. Previously (the code on mainnet) supported just Auctions and Private Sales.
+The Foundation claims to be web3 destination. Is actuality a NFT marketplace which was invite only in its beginning (by geting high profile colerctors like [PleasrDAO](https://pleasr.org#) creaters or NFT for [tor}](https://www.torproject.org) and [Edward Snowden](https://foundation.app/@Snowden))made it self a premium/trustable
+reputationthrough with it still 
+distinguishes it self and charges its users 5% fee with is double the fee of other marketplaces.
 
 - Auctions last for 24 hours. The NFT is escrowed in the market contract when it's listed. As soon as a bid is received the NFT cannot be withdrawn, guaranteeing that the sale will go through and the highest bidder gets the NFT. If a bid is placed in the final minutes of an auction, the countdown timer resets to 15-minutes remaining.
 - Private Sales use a EIP-712 signature from the seller to authorize the trade to a specific buyer / price point. The buyer has 24 hours to accept the offer to buy the NFT before the signature expires.
