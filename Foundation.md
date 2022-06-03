@@ -122,28 +122,21 @@ It's easy to reach 100% code coverage, but much harder to know all these interac
 
 
 
-- **_Minting NFT :_**
-
-  -
-  -
+- **_placeBid:_**
 
 <br>
 
-```javascript
-function mint() {
-  return "Congrats! You got your first NFT";
-}
+```solidity
+function placeBid(uint256 auctionId) external payable
 ```
 
 <br>
 
-- **_Buying Process :_**
+Place a bid in an auction. A bidder may place a bid which is at least the value defined by `getMinBidAmount`. If this is the first bid on the auction, the countdown will begin. If there is already an outstanding bid, the previous bidder will be refunded at this time and if the bid is placed in the final moments of the auction, the countdown may be extended.
 
-  -Buy the NFT at the set buy price. `msg.value` must be &lt;= `maxPrice` and any delta will be taken from the account&#39;s available FETH balance.
 
--_`maxPrice` protects the buyer in case a the price is increased but allows the transaction to continue when the price is reduced (and any surplus funds provided are refunded)._
-  
 
+- **_Buy :_**
 <br>
 
 ```javascript
@@ -153,36 +146,41 @@ function buy(address nftContract, uint256 tokenId, uint256 maxPrice) external pa
 ```
 
 <br>
+Buy the NFT at the set buy price. `msg.value` must be &lt;= `maxPrice` and any delta will be taken from the account&#39;s available FETH balance.
 
-- **_Order Booking :_**
+_`maxPrice` protects the buyer in case a the price is increased but allows the transaction to continue when the price is reduced (and any surplus funds provided are refunded)._
+  
 
-  -
-  -
 
+
+- **_acceptOffer :_**
+- 
 <br>
 
 ```javascript
-function fillOrder() {
-  return "Order Filled";
+ffunction acceptOffer(address nftContract, uint256 tokenId, address offerFrom, uint256 minAmount) external nonpayable
 }
 ```
 
 <br>
 
-- **_Funds Distribution :_**
+Accept the highest offer for an NFT.
 
-  -
-  -
+_The offer must not be expired and the NFT owned + approved by the seller or available in the market contract&#39;s escrow._
+
+- **_makeOffer:_**
 
 <br>
 
 ```javascript
-function distribute() {
-  return "Funds distributed sucesfuly";
-}
+function makeOffer(address nftContract, uint256 tokenId, uint256 amount) external payable returns (uint256 expiration)
 ```
 
 ---
+
+Make an offer for any NFT which is valid for 24-25 hours. The funds will be locked in the FETH token contract and become available once the offer is outbid or has expired.
+
+_An offer may be made for an NFT before it is minted, although we generally not recommend you do that. If there is a buy price set at this price or lower, that will be accepted instead of making an offer. `msg.value` must be &lt;= `amount` and any delta will be taken from the account&#39;s available FETH balance._
 
 <br>
 
