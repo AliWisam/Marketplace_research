@@ -29,6 +29,8 @@ The Foundation marketplace is a contract which allows traders to buy and sell NF
 
 All sales in the Foundation market will pay the creator 10% royalties on secondary sales. This is not specific to NFTs minted on Foundation, it should work for any NFT. If royalty information was not defined when the NFT was originally deployed, it may be added using the [Royalty Registry](https://royaltyregistry.xyz/) which will be respected by market contract
 <br>
+<img width="5522" alt="MarketplaceStateMachine" src="https://user-images.githubusercontent.com/14855515/155433938-428f475f-2c6d-441f-9502-674d0f7953fc.png">
+<br>
 
 ## _Research Parameters_:
 
