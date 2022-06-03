@@ -79,9 +79,9 @@ Below is a diagram depicting the marketplace states and transitions for the vari
 
 
 
-
-<br>
 -----
+<br>
+
 
 ## _Marketplace Contracts_ :
 
