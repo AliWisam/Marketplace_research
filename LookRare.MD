@@ -10,7 +10,7 @@
 
 | _Name :_                |        _Email :_         |    _Role :_  |
 | :---------------------- | :----------------------: |    -------:  |
-| _Ali Wisam_             |     *aliwisaam73@gmail.com *     |    Leader    |
+| _Ali Wisam_             |     *aliwisaam73@gmail.com*     |    Leader    |
 | _Muhammad Aquib_        |     *aquib20034@gmail.com*     |   Researcher |
 
 ---
