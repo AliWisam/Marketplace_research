@@ -99,13 +99,12 @@ About $18 billion of the trading volume on the platform, or about 95% of the tot
 
 - **_Payment Methods :_**
 
-  -[Ethereum](https://ethereum.org/en/)
-  <br>
+  - [Ethereum](https://ethereum.org/en/)
+
 
 - **_Buyer Fee :_**
 
   - 0%
-  <br>
 
 - **_Seller Fee :_**
   - LooksRare collects a basic sales fee of 2% (in WETH) on all NFT sales excluding private sales. [[Link]](https://docs.looksrare.org/about/rewards/platform-fee)
