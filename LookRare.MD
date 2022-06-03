@@ -95,12 +95,9 @@ About $18 billion of the trading volume on the platform, or about 95% of the tot
 
   - [Ethereum](https://ethereum.org/en/)
 
-  <br>
-
 - **_Payment Methods :_**
 
   - [Ethereum](https://ethereum.org/en/)
-
 
 - **_Buyer Fee :_**
 
@@ -108,11 +105,9 @@ About $18 billion of the trading volume on the platform, or about 95% of the tot
 
 - **_Seller Fee :_**
   - LooksRare collects a basic sales fee of 2% (in WETH) on all NFT sales excluding private sales. [[Link]](https://docs.looksrare.org/about/rewards/platform-fee)
-  <br>
 
 - **_Royalties :_**
   - Creators will love this feature, as it allows them to get paid for their work instantly. LooksRare supports EIP-2981 royalty standard so that both buyers and sellers can feel confident when transacting.[[Link]](https://learn.bybit.com/nft/what-is-looksrare-looks/)
-  <br>
 
 - **_Listing Type/ Selling Methods :_**
     *How to Set Up Your Collection on LooksRare?*
@@ -128,75 +123,59 @@ About $18 billion of the trading volume on the platform, or about 95% of the tot
 
     At last, Create social media links for your collections.
 
-  <br>
-
 - **_Categories :_**
   - Compared to other top NFT exchanges, LooksRare offers not as many NFT categories. The biggest collections on the marketplace consist of collectibles and generative art projects like Bored Ape Yacht Club.[[Link]](https://nftdroops.com/marketplaces/looksrare/)
-  <br>
 
 - **_Recommended Wallets :_**
   - Metamask,WalletConnect,Coinbase [[Link]](https://looksrare.org/)
-  <br>
 
 - **_File Format :_**
 
   -
- <br>
 
 - **_Max File Size :_**
 
   -
-  <br>
 
 - **_Media Storage :_**
 
   -
-  <br>
 
 - **_Decentralization :_**
 
   -
-  <br>
 
 - **_Protocol Supported :_**
 
   -
-  <br>
 
 - **_Ownership :_**
 
   -
-  <br>
 
 - **_Licensing :_**
 
   -
-  <br>
 
 - **_Governance :_**
 
   -
-  <br>
 
 - **_Staking :_**
 
   -
-  <br>
 
 - **_KYC :_**
 
   -
-  <br>
 
 - **_Regulation :_**
 
   -
-  <br>
 
 - **_Company Registration :_**
 
   -
-  <br>
 
 - **_Community Engagement :_**
 
