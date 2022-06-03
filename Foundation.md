@@ -139,8 +139,10 @@ function mint() {
 
 - **_Buying Process :_**
 
-  -
-  -
+  -Buy the NFT at the set buy price. `msg.value` must be &lt;= `maxPrice` and any delta will be taken from the account&#39;s available FETH balance.
+
+-_`maxPrice` protects the buyer in case a the price is increased but allows the transaction to continue when the price is reduced (and any surplus funds provided are refunded)._
+  
 
 <br>
 
