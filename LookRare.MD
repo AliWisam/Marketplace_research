@@ -49,16 +49,16 @@ About $18 billion of the trading volume on the platform, or about 95% of the tot
 | **Buyer Fee :**                     | 0%                               |
 | **Seller Fee :**                    | 2% excluding private sales.  [[4]](https://docs.looksrare.org/about/rewards/platform-fee) | 
 | **Royalties :**                     | true [[5]](https://www.business2community.com/nft/best-marketplaces/looksrare-review) |
-| **Listing Type/ Selling Methods :** | uniSwap      |
+| **Listing Type/ Selling Methods :** | like opensea      |
 | **Categories :**                    | generative art projects like Bored Ape Yacht Club [[6]](https://nftdroops.com/marketplaces/looksrare/) |
-| **Recommended Wallets :**           | Metamask,WalletConnect,Coinbase  |
+| **Recommended Wallets :**           | Metamask,WalletConnect,Coinbase [[7]](https://looksrare.org/)|
 | **File Format :**                   | _lorem ipsum,lorem ipsum,_       |
 | **Max File Size :**                 | _lorem ipsum,lorem ipsum,_       |
 | **Media Storage :**                 | _lorem ipsum,lorem ipsum,_       |
 | **Decentralization :**              | _lorem ipsum,lorem ipsum,_       |
 | **Protocol Supported :**            | _lorem ipsum,lorem ipsum,_       |
-| **Ownership :**                     | _lorem ipsum,lorem ipsum,_       |
-| **Licensing :**                     | _lorem ipsum,lorem ipsum,_       |
+| **Ownership :**                     | 0xbfb6669ef4c4c71ae6e722526b1b8d7d9ff9a019[[Link]](https://etherscan.io/address/0x59728544b08ab483533076417fbbb2fd0b17ce3a#readContract)       |
+| **Licensing :**                     | SPDX-License-Identifier: MIT[[Link]](https://etherscan.io/address/0x59728544b08ab483533076417fbbb2fd0b17ce3a#code)       |
 | **Governance :**                    | _lorem ipsum,lorem ipsum,_       |
 | **Staking :**                       | true       |
 | **KYC :**                           | _Twitter,Instagram, Discord       |
@@ -120,7 +120,18 @@ About $18 billion of the trading volume on the platform, or about 95% of the tot
   - <br>
 
 - **_Listing Type/ Selling Methods :_**
+    *How to Set Up Your Collection on LooksRare?*
+    - Link to looksrare.org using the wallet which contains the smart contract for your collection by clicking the wallet symbol in the top right corner of the screen.
+    - To access the menu, select the profile symbol in the top right corner of the screen, then select “My Collections.”
+    - To change or create a collection, go to “Manage” and select it.
+    - Decide on the royalties: Royalties have been paid instantaneously in WETH at the point of sale, and there’s no need to wait or gather them manually.
+    - Create a collection profile.
 
+    *Name:* This really is the name of your LooksRare collection, and also how it will display on your collections page and also be accessible.Collection description – 
+
+    *Collection description:* Whenever anyone sends a link to your collection or an item from that too, this description would show on your collections page as well as in the metadata.
+
+    At last, Create social media links for your collections.
   -
   - <br>
 
