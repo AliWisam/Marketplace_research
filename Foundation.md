@@ -90,6 +90,38 @@ Below is a diagram depicting the marketplace states and transitions for the vari
 
 <br>
 
+## Contract UML
+
+Below is a diagram depicting the relationships between various contracts.
+
+<img width="2804" alt="UMLContractDiagram" src="https://user-images.githubusercontent.com/14855515/155433971-d048e5dc-86dc-49fd-8c0e-b930117867c5.png">
+
+## FETH ERC-20 token
+
+FETH is an [ERC-20 token](https://eips.ethereum.org/EIPS/eip-20) modeled after [WETH9](https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2#code). It has the added ability to lockup tokens for 24-25 hours - during this time they may not be transferred or withdrawn, except by our market contract which requested the lockup in the first place.
+
+We strive to offer strong guarantees for both buyers and sellers, this is why a seller cannot back out of an auction once the first bid has been placed.
+
+For making offers, this means once a collector has made an offer for an NFT - those funds must remain available for a period of time so the seller has a reasonable window to consider and accept it without worrying that the collector might just withdraw their funds, making the offer invalid.
+
+We implement this feature in the FETH token contract, allowing funds to be locked up for 24-25 hours while the seller considers accepting the offer.
+
+Once the offer expires, the FETH tokens become available again. Their `balanceOf` automatically increases at the time it expires and they can then transfer or withdraw those funds -- or they can use them to place another offer!
+
+Since after lockups expire, FETH is just another wrapped ETH token contract - we allow using your available FETH balance with all the other market tools: place a bid with FETH, buy now with FETH, or buy from a private sale using FETH.
+
+## Market Tool Interactions
+
+Each of the market tools have dependencies and interactions with the others. The goal of these interactions is to do what's most likely intended or expected by the user -- and avoid leaving either the buyer or seller in an awkward state. For instance:
+
+- In progress auctions must go to the highest bidder. This means that a buy price is not valid, it cannot be accepted. And since both offers and auctions last for 24 hours, the offer cannot be accepted so we should free those FETH tokens for the collector to use elsewhere.
+- Auto-buy: If you make an offer above the current buy now price, process the purchase immediately.
+- Auto-accept-offer: Similarly if you set a buy price lower than the highest offer, accept that offer instead.
+
+It's easy to reach 100% code coverage, but much harder to know all these interactions work the way users will expect them too. Feedback along these lines is in scope for this contest.
+
+
+
 - **_Minting NFT :_**
 
   -
@@ -113,8 +145,8 @@ function mint() {
 <br>
 
 ```javascript
-function buy() {
-  return "Congrats! You bought NFT for 1 ETH";
+solidity
+function buy(address nftContract, uint256 tokenId, uint256 maxPrice) external payable
 }
 ```
 
