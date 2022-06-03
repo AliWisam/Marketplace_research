@@ -20,7 +20,7 @@
 
 ## _Introduction_ :
 
-The Foundation is a NFT marketplace which was invite only in its beginning (by geting high profile colerctors like [PleasrDAO](https://pleasr.org#) creaters or NFT for [tor](https://www.torproject.org) and [Edward Snowden](https://foundation.app/@Snowden) )made it self a premium / trustable reputation through with it still 
+The Foundation is a NFT marketplace which was invite only in its beginning (by geting high profile colerctors like [PleasrDAO](https://pleasr.org#) creaters or NFT for [tor](https://www.torproject.org) and [Edward Snowden](https://foundation.app/@Snowden) ) made it self a premium / trustable reputation through with it still 
 distinguishes it self and charges its users 5% fee with is double the fee of other marketplaces.
 
 <br>
