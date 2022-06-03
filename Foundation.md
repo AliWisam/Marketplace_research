@@ -28,6 +28,15 @@ The Foundation marketplace is a contract which allows traders to buy and sell NF
 - Offers allow collectors to make an offer for an NFT. The seller has 24-25 hours to accept the offer. During this time, the collector's funds are locked in the FETH ERC-20 contract - ensuring that an offer remains valid until its expiration. If a higher offer is made, the original user's FETH balance is unlocked and they can use those funds elsewhere (or withdraw the ETH).
 
 All sales in the Foundation market will pay the creator 10% royalties on secondary sales. This is not specific to NFTs minted on Foundation, it should work for any NFT. If royalty information was not defined when the NFT was originally deployed, it may be added using the [Royalty Registry](https://royaltyregistry.xyz/) which will be respected by market contract
+
+## Marketplace State Machine
+
+Below is a diagram depicting the marketplace states and transitions for the various market tools.
+
+<img width="5522" alt="MarketplaceStateMachine" src="https://user-images.githubusercontent.com/14855515/155433938-428f475f-2c6d-441f-9502-674d0f7953fc.png">
+
+
+
 <br>
 
 ## _Research Parameters_:
@@ -53,7 +62,7 @@ All sales in the Foundation market will pay the creator 10% royalties on seconda
 | **Licensing :**                     | _lorem ipsum,lorem ipsum,_       |
 | **Governance :**                    | _lorem ipsum,lorem ipsum,_       |
 | **Staking :**                       | _lorem ipsum,lorem ipsum,_       |
-| **KYC :**                           | _Twitter,Instagram |
+| **KYC :**                           | _Twitter,Instagram_ |
 | **Regulation :**                    | _lorem ipsum,lorem ipsum,_       |
 | **Company Registration :**          | _lorem ipsum,lorem ipsum,_       |
 | **Community Engagement :**          | _lorem ipsum,lorem ipsum,_       |
