@@ -20,8 +20,7 @@
 
 ## _Introduction_ :
 
-The Foundation claims to be web3 destination. Is actuality a NFT marketplace which was invite only in its beginning (by geting high profile colerctors like [PleasrDAO](https://pleasr.org#) creaters or NFT for [tor](https://www.torproject.org) and [Edward Snowden](https://foundation.app/@Snowden))made it self a premium/trustable
-reputationthrough with it still 
+The Foundation is a NFT marketplace which was invite only in its beginning (by geting high profile colerctors like [PleasrDAO](https://pleasr.org#) creaters or NFT for [tor](https://www.torproject.org) and [Edward Snowden](https://foundation.app/@Snowden) )made it self a premium / trustable reputation through with it still 
 distinguishes it self and charges its users 5% fee with is double the fee of other marketplaces.
 
 <br>
@@ -44,15 +43,13 @@ distinguishes it self and charges its users 5% fee with is double the fee of oth
 | **Max File Size :**                 | _50 Megabyte_       |
 | **Media Storage :**                 | _IPFS_   |
 | **Decentralization :**              | _lorem ipsum,lorem ipsum,_       |
-| **Protocol Supported :**            | _lorem ipsum,lorem ipsum,_       |
 | **Ownership :**                     | _lorem ipsum,lorem ipsum,_       |
 | **Licensing :**                     | _lorem ipsum,lorem ipsum,_       |
 | **Governance :**                    | _lorem ipsum,lorem ipsum,_       |
-| **Staking :**                       | _lorem ipsum,lorem ipsum,_       |
-| **KYC :**                           | _Twitter,Instagram_ |
+| **KYC :**                           | _Twitter , Instagram_ |
 | **Regulation :**                    | _lorem ipsum,lorem ipsum,_       |
 | **Company Registration :**          | _lorem ipsum,lorem ipsum,_       |
-| **Community Engagement :**          | _lorem ipsum,lorem ipsum,_       |
+| **Community Engagement :**          | _Twitter , Instagram_       |
 
 ---
 <br>
@@ -99,6 +96,8 @@ Below is a diagram depicting the marketplace states and transitions for the vari
 ---
 
 ## _Contracts Description_ :
+
+This is a brief overview of the contracts used in Foundation for more detailed information you can use the links given in Sources in the end.
 
 <br>
 
