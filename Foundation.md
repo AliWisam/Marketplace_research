@@ -198,7 +198,7 @@ _An offer may be made for an NFT before it is minted, although we generally not 
 ## _Conclusion_ :
 
 -Uncomplicated and user-friendly interface.
--If the NFT is resold on the OpenSea and Rarible platforms, a 10% royalty goes to the wallet in which the NFT was originally minted.
+-10% royalty goes to the wallet in which the NFT was originally minted.
 -High commission payments.
 -Payments are made via ETH only.
 
