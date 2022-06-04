@@ -10,9 +10,10 @@
 
 | _Name :_                |        _Email :_         |    _Role :_  |
 | :---------------------- | :----------------------: |    -------:  |
-| _Ali Wisam_             |     *aliwisaam73@gmail.com*     |    Leader    |
-| _Muhammad Aquib_        |     *aquib20034@gmail.com*     |   Researcher |
-
+| _Ali Wisam_             |     *aliwisaam73@gmail.com*   | Team Leader   |
+| _Muhammad Aquib_        |     *aquib20034@gmail.com*    |  Researcher   |
+| _Burhan Saleemi_        | *burhansaleemi@tutanota.com*  |  Researcher   |
+| _Ruwaifa Tahir_         | *ruwaifatahir@gmail.com*      |  Repository   |
 ---
 
 <br>
