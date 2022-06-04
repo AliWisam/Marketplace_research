@@ -21,7 +21,7 @@
 ## _Introduction_ :
 
 The Foundation is a NFT marketplace which was invite only in its beginning (by geting high profile colerctors like [PleasrDAO](https://pleasr.org#) creaters or NFT for [tor](https://www.torproject.org) and [Edward Snowden](https://foundation.app/@Snowden) ) made it self a premium / trustable reputation through with it still 
-distinguishes it self and charges its users 5% fee with is double the fee of other marketplaces.
+distinguishes it self and charges its users 15% fee with is double the fee of other marketplaces.
 
 <br>
 
@@ -34,7 +34,7 @@ distinguishes it self and charges its users 5% fee with is double the fee of oth
 | **Supported Blockchains :**         | _Ethereum_ |
 | **Payment Methods :**               | _Ethereum_ |
 | **Buyer Fee :**                     | _Percentage: 0%_ |
-| **Seller Fee :**                    | _Percentage: 5%_ |
+| **Seller Fee :**                    | _Percentage: 15%_ |
 | **Royalties :**                     | _Percentage: 10%_ |
 | **Listing Type/ Selling Methods :** | _lorem ipsum,lorem ipsum,_       |
 | **Categories :**                    | _Art,Photo,Video_ |
@@ -197,9 +197,10 @@ _An offer may be made for an NFT before it is minted, although we generally not 
 
 ## _Conclusion_ :
 
--
--
--
+-Uncomplicated and user-friendly interface.
+-If the NFT is resold on the OpenSea and Rarible platforms, a 10% royalty goes to the wallet in which the NFT was originally minted.
+-High commission payments.
+-Payments are made via ETH only.
 
 <br>
 
