@@ -36,19 +36,15 @@ distinguishes it self and charges its users 15% fee with is double the fee of ot
 | **Buyer Fee :**                     | _Percentage: 0%_ |
 | **Seller Fee :**                    | _Percentage: 15%_ |
 | **Royalties :**                     | _Percentage: 10%_ |
-| **Listing Type/ Selling Methods :** | _lorem ipsum,lorem ipsum,_       |
+| **Listing Type/ Selling Methods :** | _Auction ,Sale _       |
 | **Categories :**                    | _Art,Photo,Video_ |
 | **Recommended Wallets :**           | _Metamask,WalletConnect,Coinbase_ |
 | **File Format :**                   | _.JPG,.MP4_ |
 | **Max File Size :**                 | _50 Megabyte_       |
 | **Media Storage :**                 | _IPFS_   |
-| **Decentralization :**              | _lorem ipsum,lorem ipsum,_       |
-| **Ownership :**                     | _lorem ipsum,lorem ipsum,_       |
-| **Licensing :**                     | _lorem ipsum,lorem ipsum,_       |
-| **Governance :**                    | _lorem ipsum,lorem ipsum,_       |
+| **Ownership :**                     | _non Custodial_       |
+| **Licensing :**                     | _Creator owns all legal right_       |
 | **KYC :**                           | _Twitter , Instagram_ |
-| **Regulation :**                    | _lorem ipsum,lorem ipsum,_       |
-| **Company Registration :**          | _lorem ipsum,lorem ipsum,_       |
 | **Community Engagement :**          | _Twitter , Instagram_       |
 
 ---
@@ -87,7 +83,7 @@ Below is a diagram depicting the marketplace states and transitions for the vari
 | Contracts :             |         Details :          |
 | :---------------------- | :------------------------: |
 | **FETH**                  | _[ERC-20 token](https://eips.ethereum.org/EIPS/eip-20) modeled after [WETH9](https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2#code)_ |
-| **Market**                | _[Contract](/docs/FNDNFTMarket.md) which allows traders to buy and sell NFTs_ |
+| **Market**                | _[Contract](https://github.com/code-423n4/docs/FNDNFTMarket.md) which allows traders to buy and sell NFTs_ |
 | **OpenZeppelin Contracts**| _Dependencie [OpenZeppelin Contracts](https://openzeppelin.com/contracts/)_ |
 | **Royalty Registry**      | _Dependencie [Royalty Registry](https://royaltyregistry.xyz/)_ |
 
@@ -212,8 +208,11 @@ _An offer may be made for an NFT before it is minted, although we generally not 
 
 <br>
 
--
--
+- [code-423n4](https://github.com/code-423n4/2022-02-foundation#readme)
+- [foundation.app](https://foundation.app)
+- [help.foundation](https://help.foundation.app/hc/en-us)
+- [Royalty Registry](https://royaltyregistry.xyz/)
+- [Fmarket](https://github.com/code-423n4/docs/FNDNFTMarket.md)
 
 <br>
 
