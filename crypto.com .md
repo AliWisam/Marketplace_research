@@ -51,7 +51,7 @@
 | **Recommended Wallets :**           |Ethereum wallets, Cronos wallets, Bitcoin wallets or Crypto.org Chain Wallets |
 | **File Format :**                   | JPEG, JPG, PNG, GIF and WEBP  [Referance](https://help.crypto.com/en/articles/5588880-nft-creation)_    |
 | **Max File Size :**                 | 60MB per collectible   [Referance](https://help.crypto.com/en/articles/5588880-nft-creation)_     |
-| **Media Storage :**                 | _lorem ipsum,lorem ipsum,_       |
+| **Media Storage :**                 | IPFS      |
 | **Ownership :**                     | non Custodial_       |
 | **Licensing :**                     | Creator owns all legal right      |
 | **KYC :**                           | Full legal name, Picture of government-issued ID, Selfie |
