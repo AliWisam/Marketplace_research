@@ -199,11 +199,11 @@
 - **_Minting NFT :_**
 
 
- - Once approved as a creator, you can mint collectibles on our platform. Begin by clicking on the “Create” button on the navigation bar, and providing all the required details. You can create up to 50 collectibles per week and 10 editions for each collectible.
+  - Once approved as a creator, you can mint collectibles on our platform. Begin by clicking on the “Create” button on the navigation bar, and providing all the required details. You can create up to 50 collectibles per week and 10 editions for each collectible.
 
- - Once created, your collectible will be viewable immediately and made available for listing once minted. Note that minting time may vary depending on network usage. 
+  - Once created, your collectible will be viewable immediately and made available for listing once minted. Note that minting time may vary depending on network usage. 
 
- - Once your NFTs have been minted on the blockchain they can't be removed or modified. Additionally, collectibles can only be assigned to a collection at the moment of their upload. NFTs can't be added to a collection after being minted.  
+  - Once your NFTs have been minted on the blockchain they can't be removed or modified. Additionally, collectibles can only be assigned to a collection at the moment of their upload. NFTs can't be added to a collection after being minted.  
   
 <br>
 
@@ -219,11 +219,11 @@
 - **_Buying Process :_**
 
 
- - You can purchase items that are available in primary sales (including ‘drops’) or secondary sales. Pay with a credit/debit card, your account balance, or with Crypto.com Pay - via the Crypto.com App or using a wallet that supports ERC20 tokens (e.g., Metamask, WalletConnect). If you have accumulated some account balance, you can then use it to make purchases once you have connected your Crypto.com App account (KYC required).
+  - You can purchase items that are available in primary sales (including ‘drops’) or secondary sales. Pay with a credit/debit card, your account balance, or with Crypto.com Pay - via the Crypto.com App or using a wallet that supports ERC20 tokens (e.g., Metamask, WalletConnect). If you have accumulated some account balance, you can then use it to make purchases once you have connected your Crypto.com App account (KYC required).
  
- - Please note that you must have the same email address for Crypto.com NFT and Crypto.com App. If you use different email addresses, we recommend you to change the email address on the App. You can click the gear icon located in the top left of the App homepage and then click into your profile to change your email address. 
+  - Please note that you must have the same email address for Crypto.com NFT and Crypto.com App. If you use different email addresses, we recommend you to change the email address on the App. You can click the gear icon located in the top left of the App homepage and then click into your profile to change your email address. 
 
- - If you would like to use Crypto.com Pay, please click the ‘Crypto.com Pay’ button on the payment method page to proceed to checkout. You will then see a pop-up page with various wallet options. Once you have chosen your preferred wallet, please scan a pop-up QR code and/or follow the on-screen instructions to connect your wallet and complete the payment.
+  - If you would like to use Crypto.com Pay, please click the ‘Crypto.com Pay’ button on the payment method page to proceed to checkout. You will then see a pop-up page with various wallet options. Once you have chosen your preferred wallet, please scan a pop-up QR code and/or follow the on-screen instructions to connect your wallet and complete the payment.
 
   -
 
