@@ -106,7 +106,11 @@
 
 - **_Payment Methods :_**
 
-  - Pay with Crypto.com App *, Pay with Ethereum wallets (MetaMask, WalletConnect or others) , Pay with Cronos wallets (MetaMask, WalletConnect or others) , Pay with Bitcoin Wallets , Pay with Crypto.org Chain Wallets.
+  - Pay with Crypto.com App *
+  - Pay with Ethereum wallets (MetaMask, WalletConnect or others)
+  - Pay with Cronos wallets (MetaMask, WalletConnect or others)
+  - Pay with Bitcoin Wallets
+  - Pay with Crypto.org Chain Wallets.
  
   - <br>
 
