@@ -12,22 +12,8 @@
 | _Name :_                |        _Email :_         | _Role :_ |
 | :---------------------- | :----------------------: | -------: |
 | _Ali Wisam_             |     *demo@gmail.com*     |   Leader |
-| _Hasan sattar_          |     *demo@gmail.com*     |  No Role |
-| _Zeeshan Ahmad_         |     *demo@gmail.com*     |  No Role |
-| _Burhan Saleemi_        |     *demo@gmail.com*     |  No Role |
-| _Dr Mutahir Hussain_    |     *demo@gmail.com*     |  No Role |
-| _Muhammad Aquib_        |     *demo@gmail.com*     |  No Role |
-| _Muhammad Jehanzaib_    |     *demo@gmail.com*     |  No Role |
-| _Abdul Wahab_           |     *demo@gmail.com*     |  No Role |
-| _M. Umar Shahid_        |     *demo@gmail.com*     |  No Role |
-| _Asif Ali_              |     *demo@gmail.com*     |  No Role |
-| _Ruwaifa Tahir_         | *ruwaifatahir@gmail.com* |  No Role |
-| _M. Shoaib Latif_       |     *demo@gmail.com*     |  No Role |
-| _Muhammad Adil_         |     *demo@gmail.com*     |  No Role |
-| _Mukarram Ali_          |     *demo@gmail.com*     |  No Role |
-| _Muhammad Kashif Nawaz_ |     *demo@gmail.com*     |  No Role |
-| _Umair Riaz_            |     *demo@gmail.com*     |  No Role |
-| _Zaeem Tariq_           |     *demo@gmail.com*     |  No Role |
+
+| _Zaeem Tariq_           |     *zaemtariq@gmail.com*     |  Researcher |
 
 ---
 
@@ -35,14 +21,8 @@
 
 ## _Introduction_ :
 
-Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+Crypto.com was founded in 2016 in Hong Kong. It currently offers more than 250 cryptocurrencies to over 10 million customers worldwide. Crypto.com serves users in 90 countries with a unique suite of cryptocurrency-related financial products. The long list of currencies, low pricing, and additional features make Crypto.com suitable for beginner to advanced cryptocurrency users. However, beginners may find the plethora of features intimidating. If you apply to become a creator and you’re rejected, there’s currently no way to resubmit your application. And minting a new NFT takes a minimum of 72-hours.
+However, there’s no fee for minting. And except a $3 submission fee, there are no marketplace fees or gas fees to worry about. So, if you’re ok with waiting three days, that could be a good trade-off. Apart from the potential frustrations creators may run into with this platform, buyers can use multiple payment methods and a variety of wallets. Plus, you can connect a debit or credit card for NFT purchases. It’s very convenient and something that other major NFT marketplaces lack — OpenSea only accepts crypto payments.
 
 <br>
 
@@ -52,15 +32,15 @@ Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ip
 
 | Parameters :                        | Details :                        |
 | ----------------------------------- | -------------------------------- |
-| **Supported Blockchains :**         | _lorem ipsum,lorem ipsum,lorem,_ |
-| **Payment Methods :**               | _lorem ipsum,lorem ipsum,lorem,_ |
+| **Supported Blockchains :**         | Crypto.org Chain                 |
+| **Payment Methods :**               | BTC, CRO, ETH, USDC, TUSD, USDT, DOGE, SHIB and many more. |
 | **Buyer Fee :**                     | _lorem ipsum,lorem ipsum,lorem,_ |
 | **Seller Fee :**                    | _lorem ipsum,lorem ipsum,lorem,_ |
-| **Royalties :**                     | _lorem ipsum,lorem ipsum,lorem,_ |
-| **Listing Type/ Selling Methods :** | _lorem ipsum,lorem ipsum,_       |
-| **Categories :**                    | _lorem ipsum,lorem ipsum,lorem,_ |
-| **Recommended Wallets :**           | _lorem ipsum,lorem ipsum,lorem,_ |
-| **File Format :**                   | _lorem ipsum,lorem ipsum,_       |
+| **Royalties :**                     | Percentage: 10% |
+| **Listing Type/ Selling Methods :** | Fixed price and auction model       |
+| **Categories :**                    |Art, celebrities, Crypto, Gaming, Music, Sports |
+| **Recommended Wallets :**           |Ethereum wallets, Cronos wallets, Bitcoin wallets or Crypto.org Chain Wallets |
+| **File Format :**                   | JPEG, JPG, PNG, GIF and WEBP      |
 | **Max File Size :**                 | _lorem ipsum,lorem ipsum,_       |
 | **Media Storage :**                 | _lorem ipsum,lorem ipsum,_       |
 | **Decentralization :**              | _lorem ipsum,lorem ipsum,_       |
