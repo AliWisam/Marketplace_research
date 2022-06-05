@@ -26,12 +26,11 @@
 
 - The marketplace itself contains an array of the best NFTs to buy, from categories such as art, gaming, sports, music, and more. Each NFT will be listed for a fixed price or through a traditional auction, offering flexibility for buyers and sellers. Interestingly, Crypto.com NFTs can be purchased instantly using a credit or debit card. This is in contrast to many other NFT marketplaces that require crypto to facilitate payments.
 
-- Ultimately, this streamlined approach to NFT trading has made the Crypto.com NFT Marketplace incredibly popular. Users can make investments through the browser-based platform or the Crypto.com NFT app, ensuring there’s an option for everyone. Finally, a recent press release from Crypto.com announced that the platform will now offer Ethereum-based N
+- Ultimately, this streamlined approach to NFT trading has made the Crypto.com NFT Marketplace incredibly popular. Users can make investments through the browser-based platform or the Crypto.com NFT app, ensuring there’s an option for everyone. Finally, a recent press release from Crypto.com announced that the platform will now offer Ethereum-based NFTs – greatly expanding the potential universe of assets.
+
 
 <img width="938" alt="gg" src="https://user-images.githubusercontent.com/87516819/172034784-e797f640-3336-4a5f-9466-e635c199a6be.PNG">
-FTs – greatly expanding the potential universe of assets.
-
-<img width="487" alt="Capture" src="https://user-images.githubusercontent.com/87516819/172034778-b48216fb-756d-49ae-aeea-942fc58e6ef4.PNG">
+<img width="938" alt="Capture" src="https://user-images.githubusercontent.com/87516819/172034778-b48216fb-756d-49ae-aeea-942fc58e6ef4.PNG">
 
 
 <br>
