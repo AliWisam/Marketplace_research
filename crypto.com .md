@@ -11,7 +11,7 @@
 
 | _Name :_                |        _Email :_         | _Role :_ |
 | :---------------------- | :----------------------: | -------: |
-| _Ali Wisam_             |     *demo@gmail.com*     |   Leader |
+| _Ali Wisam_             | *raliwisaam73@gmail.com* | Team Lead |
 | _Zaeem Tariq_           |   *zaemtariq@gmail.com*  |Researcher |
 
 ---
@@ -20,9 +20,19 @@
 
 ## _Introduction_ :
 
- - Crypto.com was founded in 2016 in Hong Kong. It currently offers more than 250 cryptocurrencies to over 10 million customers worldwide. Crypto.com serves users in 90 countries with a unique suite of cryptocurrency-related financial products. The long list of currencies, low pricing, and additional features make Crypto.com suitable for beginner to advanced cryptocurrency users. However, beginners may find the plethora of features intimidating. If you apply to become a creator and you’re rejected, there’s currently no way to resubmit your application. And minting a new NFT takes a minimum of 72-hours.
+ - The Crypto.com NFT app and marketplace is a division of Crypto.com – one of the best crypto exchanges on the market. Most traders will have heard of Crypto.com, as the exchange has a stellar reputation regarding fees and user-friendliness. Given the remarkable popularity of NFTs, Crypto.com decided to launch its own marketplace in March 2021, constructed on the Crypto.org chain.
+ 
+ - The Crypto.com NFT Marketplace requires Crypto.com users to create an additional account to use it – although this only takes a matter of minutes. Once created, users can instantly verify their NFT account by linking it to their Crypto.com trading account via the app. Overall, this process is rapid and enables users to benefit from the features contained in Crypto.com’s ecosystem.
 
- - However, there’s no fee for minting. And except a $3 submission fee, there are no marketplace fees or gas fees to worry about. So, if you’re ok with waiting three days, that could be a good trade-off. Apart from the potential frustrations creators may run into with this platform, buyers can use multiple payment methods and a variety of wallets. Plus, you can connect a debit or credit card for NFT purchases. It’s very convenient and something that other major NFT marketplaces lack — OpenSea only accepts crypto payments.
+- The marketplace itself contains an array of the best NFTs to buy, from categories such as art, gaming, sports, music, and more. Each NFT will be listed for a fixed price or through a traditional auction, offering flexibility for buyers and sellers. Interestingly, Crypto.com NFTs can be purchased instantly using a credit or debit card. This is in contrast to many other NFT marketplaces that require crypto to facilitate payments.
+
+- Ultimately, this streamlined approach to NFT trading has made the Crypto.com NFT Marketplace incredibly popular. Users can make investments through the browser-based platform or the Crypto.com NFT app, ensuring there’s an option for everyone. Finally, a recent press release from Crypto.com announced that the platform will now offer Ethereum-based N
+
+<img width="938" alt="gg" src="https://user-images.githubusercontent.com/87516819/172034784-e797f640-3336-4a5f-9466-e635c199a6be.PNG">
+FTs – greatly expanding the potential universe of assets.
+
+<img width="487" alt="Capture" src="https://user-images.githubusercontent.com/87516819/172034778-b48216fb-756d-49ae-aeea-942fc58e6ef4.PNG">
+
 
 <br>
 
@@ -32,7 +42,7 @@
 
 | Parameters :                        | Details :                        |
 | ----------------------------------- | -------------------------------- |
-| **Supported Blockchains :**         | Crypto.org Chain                 |
+| **Supported Blockchains :**         | Crypto.org Chain, Ethereum       |
 | **Payment Methods :**               | BTC, CRO, ETH, USDC, TUSD, USDT, DOGE, SHIB and many more. |
 | **Buyer Fee :**                     | Percentage: 0% |
 | **Seller Fee :**                    | Percentage: 5% |
@@ -66,7 +76,6 @@
  - To mint, you must apply to become a creator. With each NFT submission, there’s a $3 submission fee and a 72-hour review period for the platform to confirm the NFT meets community standards: no vulgarity, nudity, etc. NFTs minted on the platform are Crypto.org Chain NFTs.
 
 
-
 <br>
 
 ## _Marketplace Contracts_ :
@@ -75,10 +84,8 @@
 
 | Contracts :             |         Details :          |
 | :---------------------- | :------------------------: |
-| **Minting NFT**         | _lorem ipsum, lorem ipsum_ |
-| **Buying Process**      | _lorem ipsum, lorem ipsum_ |
-| **Order Booking**       | _lorem ipsum, lorem ipsum_ |
-| **Funcds Distribution** | _lorem ipsum, lorem ipsum_ |
+| **Minting NFT**         |      Mentioned Below       |
+| **Buying Process**      |      Mentioned Below       |
 
 <br>
 
@@ -92,8 +99,9 @@
 
 - **Supported Blockchains :**
 
-  - [Crypto.org Chain](https://crypto.org/docs/)
-  
+  - [Crypto.org Chain](https://crypto.org/)
+  - [Ethereum](https://ethereum.org/en/)
+
 
   <br>
 
@@ -194,13 +202,13 @@
 
  - Once your NFTs have been minted on the blockchain they can't be removed or modified. Additionally, collectibles can only be assigned to a collection at the moment of their upload. NFTs can't be added to a collection after being minted.  
   
-
 <br>
 
 ```javascript
-function mint() {
-  return "Congrats! You got your first NFT";
-}
+    function mint_by_cronos_module(address addr, uint amount) public {
+        require(msg.sender == module_address);
+        mint(addr, amount);
+    }
 ```
 
 <br>
@@ -224,37 +232,6 @@ function buy() {
 }
 ```
 
-<br>
-
-- **_Order Booking :_**
-
-  -
-  -
-
-<br>
-
-```javascript
-function fillOrder() {
-  return "Order Filled";
-}
-```
-
-<br>
-
-- **_Funds Distribution :_**
-
-  -
-  -
-
-<br>
-
-```javascript
-function distribute() {
-  return "Funds distributed sucesfuly";
-}
-```
-
----
 
 <br>
 
@@ -266,9 +243,6 @@ function distribute() {
 
 - Like other cryptocurrency exchanges, customer service isn’t a strong suit for Crypto.com, so plan on a primarily self-service experience. If you’re comfortable with that, Crypto.com could be a suitable option for your needs.
 
-<br>
-
----
 
 <br>
 
@@ -292,6 +266,7 @@ function distribute() {
 - https://www.investopedia.com/crypto-com-review-5209370#:~:text=Overall%2C%20Crypto.com%20is%20best,currency%2C%20not%20just%20an%20investment.
 - https://time.com/nextadvisor/investing/cryptocurrency/crypto-com-review/
 - https://crypto.com/nft/marketplace
+- https://www.business2community.com/nft/cryptocom-nft-marketplace
 
 <br>
 
