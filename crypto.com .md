@@ -240,20 +240,19 @@ function buy() {
 
 ## _Conclusion_ :
 
-- Crypto.com is a good choice for cryptocurrency traders looking for a platform with relatively low fees and an extensive list of supported currencies.
-
-- It’s best for people who feel confident managing a financial account through a mobile app and may be ideal for those with intermediate cryptocurrency knowledge and experience.
-
-- Like other cryptocurrency exchanges, customer service isn’t a strong suit for Crypto.com, so plan on a primarily self-service experience. If you’re comfortable with that, Crypto.com could be a suitable option for your needs.
-
+- Overall, Crypto.com NFT is a good starting point for newbies looking to break into collecting NFTs, but for seasoned creators that prefer minting on more mainstream blockchains like Solana or Ethereum, you may want to look elsewhere.
+- No transaction fee when purchasing 
+- NFTs Can purchase NFTs using a credit or debit card 
+- Offers multiple categories of NFTs 
+- Now supports Ethereum-based NFTs Crypto.com NFT app for buying NFTs on mobile
 
 <br>
 
 ## _Contributors_ :
 
--
--
--
+- Zaeem Tariq
+- Email: zaemtariq@gmail.com
+- https://github.com/zaemtariq
 
 <br>
 
@@ -281,5 +280,4 @@ function buy() {
 
 <br>
 
-- [NFT Recourses](https://github.com/gianni-dalerta/awesome-nft)
 - [Marketplaces Sheet](https://docs.google.com/spreadsheets/d/1Q_6GnX7DhFDBD4hHKaMUkesMIO9rxJx5ewcKVv4Tjag/edit)
