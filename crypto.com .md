@@ -57,10 +57,13 @@
 
 <br>
 
-•	Buy NFTs minted on Crypto.org Chain, and safelisted NFTs from Ethereum, Polygon and Cronos collections. At the time of writing, there are 28 safelisted Cronos collections, 22 safelisted Polygon NFT collections and 57 safelisted ETH collections.
-•	CRO is Crypto.com’s native token, and can be used to buy NFTs, but there are multiple payment methods available including credit and debit cards, as well as over 20 cryptocurrencies and many supported wallets.
-•	You’re required to have a Crypto.com account to purchase and sell NFTs, and if you pay for ETH NFTs using the Crypto.com Wallet, you don’t have to pay gas fees.
-•	To mint, you must apply to become a creator. With each NFT submission, there’s a $3 submission fee and a 72-hour review period for the platform to confirm the NFT meets community standards: no vulgarity, nudity, etc. NFTs minted on the platform are Crypto.org Chain NFTs.
+ - Buy NFTs minted on Crypto.org Chain, and safelisted NFTs from Ethereum, Polygon and Cronos collections. At the time of writing, there are 28 safelisted Cronos collections, 22 safelisted Polygon NFT collections and 57 safelisted ETH collections.
+
+ - CRO is Crypto.com’s native token, and can be used to buy NFTs, but there are multiple payment methods available including credit and debit cards, as well as over 20 cryptocurrencies and many supported wallets.
+ 
+ - You’re required to have a Crypto.com account to purchase and sell NFTs, and if you pay for ETH NFTs using the Crypto.com Wallet, you don’t have to pay gas fees.
+ 
+ - To mint, you must apply to become a creator. With each NFT submission, there’s a $3 submission fee and a 72-hour review period for the platform to confirm the NFT meets community standards: no vulgarity, nudity, etc. NFTs minted on the platform are Crypto.org Chain NFTs.
 
 
 
@@ -97,25 +100,27 @@
 - **_Payment Methods :_**
 
   - Pay with Crypto.com App *, Pay with Ethereum wallets (MetaMask, WalletConnect or others) , Pay with Cronos wallets (MetaMask, WalletConnect or others) , Pay with Bitcoin Wallets , Pay with Crypto.org Chain Wallets.
-  -
+ 
   - <br>
 
 - **_Buyer Fee :_**
 
   - Buyers do not pay additional fees for making purchases. Simply select the NFT you like and pay the exact amount of the listed price. [Referance](https://help.crypto.com/en/articles/5074395-buying-and-selling)
-  -
+  
 
   <br>
 
 - **_Seller Fee :_**
 
   - if you are the seller, normally a 5% processing fee will be deducted from the total purchase amount to cover the operational costs of the platform. [Referance](https://help.crypto.com/en/articles/5074395-buying-and-selling)_
-  - <br>
+  
+  <br>
 
 - **_Royalties :_**
 
   - Note that royalties are fixed at 10% for resales of collectibles created directly by creators through the platform.
-  - <br>
+  
+  <br>
 
 - **_Listing Type/ Selling Methods :_**
 
@@ -141,27 +146,30 @@
 - **_Categories :_**
 
   - Art, celebrities, Crypto, Gaming, Music, Sports
-  - <br>
+  
+   <br>
 
 - **_Recommended Wallets :_**
 
   - Ethereum Wallet
   - Bitcoin Wallet
   - Crono Wallet
-  - <br>
+  
+  <br>
 
 - **_File Format :_**
 
   - JPEG, JPG, PNG, GIF and WEBP  [Referance](https://help.crypto.com/en/articles/5588880-nft-creation)_ 
  
-  - <br>
+   <br>
 
 - **_KYC :_**
 
   - Full legal name
   - Picture of government-issued ID*
   - Selfie
-  - <br>
+
+   <br>
 
 - **_Community Engagement :_**
 
@@ -170,7 +178,6 @@
   - Discord
   - Telegram
 
----
 
 <br>
 
@@ -181,7 +188,7 @@
 - **_Minting NFT :_**
 
 
-  - Once approved as a creator, you can mint collectibles on our platform. Begin by clicking on the “Create” button on the navigation bar, and providing all the required details. You can create up to 50 collectibles per week and 10 editions for each collectible.
+ - Once approved as a creator, you can mint collectibles on our platform. Begin by clicking on the “Create” button on the navigation bar, and providing all the required details. You can create up to 50 collectibles per week and 10 editions for each collectible.
 
  - Once created, your collectible will be viewable immediately and made available for listing once minted. Note that minting time may vary depending on network usage. 
 
@@ -201,7 +208,7 @@ function mint() {
 - **_Buying Process :_**
 
 
-  - You can purchase items that are available in primary sales (including ‘drops’) or secondary sales. Pay with a credit/debit card, your account balance, or with Crypto.com Pay - via the Crypto.com App or using a wallet that supports ERC20 tokens (e.g., Metamask, WalletConnect). If you have accumulated some account balance, you can then use it to make purchases once you have connected your Crypto.com App account (KYC required).
+ - You can purchase items that are available in primary sales (including ‘drops’) or secondary sales. Pay with a credit/debit card, your account balance, or with Crypto.com Pay - via the Crypto.com App or using a wallet that supports ERC20 tokens (e.g., Metamask, WalletConnect). If you have accumulated some account balance, you can then use it to make purchases once you have connected your Crypto.com App account (KYC required).
  
  - Please note that you must have the same email address for Crypto.com NFT and Crypto.com App. If you use different email addresses, we recommend you to change the email address on the App. You can click the gear icon located in the top left of the App homepage and then click into your profile to change your email address. 
 
