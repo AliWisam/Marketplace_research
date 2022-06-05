@@ -41,19 +41,13 @@ However, there’s no fee for minting. And except a $3 submission fee, there are
 | **Listing Type/ Selling Methods :** | Fixed price and auction model       |
 | **Categories :**                    |Art, celebrities, Crypto, Gaming, Music, Sports |
 | **Recommended Wallets :**           |Ethereum wallets, Cronos wallets, Bitcoin wallets or Crypto.org Chain Wallets |
-| **File Format :**                   | JPEG, JPG, PNG, GIF and WEBP      |
-| **Max File Size :**                 | _lorem ipsum,lorem ipsum,_       |
+| **File Format :**                   | JPEG, JPG, PNG, GIF and WEBP  [Referance](https://help.crypto.com/en/articles/5588880-nft-creation)_    |
+| **Max File Size :**                 | 60MB per collectible   [Referance](https://help.crypto.com/en/articles/5588880-nft-creation)_     |
 | **Media Storage :**                 | _lorem ipsum,lorem ipsum,_       |
-| **Decentralization :**              | _lorem ipsum,lorem ipsum,_       |
-| **Protocol Supported :**            | _lorem ipsum,lorem ipsum,_       |
-| **Ownership :**                     | _lorem ipsum,lorem ipsum,_       |
-| **Licensing :**                     | _lorem ipsum,lorem ipsum,_       |
-| **Governance :**                    | _lorem ipsum,lorem ipsum,_       |
-| **Staking :**                       | _lorem ipsum,lorem ipsum,_       |
+| **Ownership :**                     | non Custodial_       |
+| **Licensing :**                     | Creator owns all legal right      |
 | **KYC :**                           | Full legal name, Picture of government-issued ID, Selfie |
-| **Regulation :**                    | _lorem ipsum,lorem ipsum,_       |
-| **Company Registration :**          | _lorem ipsum,lorem ipsum,_       |
-| **Community Engagement :**          | _lorem ipsum,lorem ipsum,_       |
+| **Community Engagement :**          | Discord, Telegram, Instagram     |
 
 ---
 
