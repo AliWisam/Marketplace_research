@@ -35,8 +35,8 @@ However, there’s no fee for minting. And except a $3 submission fee, there are
 | ----------------------------------- | -------------------------------- |
 | **Supported Blockchains :**         | Crypto.org Chain                 |
 | **Payment Methods :**               | BTC, CRO, ETH, USDC, TUSD, USDT, DOGE, SHIB and many more. |
-| **Buyer Fee :**                     | _lorem ipsum,lorem ipsum,lorem,_ |
-| **Seller Fee :**                    | _lorem ipsum,lorem ipsum,lorem,_ |
+| **Buyer Fee :**                     | Percentage: 0% |
+| **Seller Fee :**                    | Percentage: 5% |
 | **Royalties :**                     | Percentage: 10% |
 | **Listing Type/ Selling Methods :** | Fixed price and auction model       |
 | **Categories :**                    |Art, celebrities, Crypto, Gaming, Music, Sports |
@@ -50,7 +50,7 @@ However, there’s no fee for minting. And except a $3 submission fee, there are
 | **Licensing :**                     | _lorem ipsum,lorem ipsum,_       |
 | **Governance :**                    | _lorem ipsum,lorem ipsum,_       |
 | **Staking :**                       | _lorem ipsum,lorem ipsum,_       |
-| **KYC :**                           | _lorem ipsum,lorem ipsum,_       |
+| **KYC :**                           | Full legal name, Picture of government-issued ID, Selfie |
 | **Regulation :**                    | _lorem ipsum,lorem ipsum,_       |
 | **Company Registration :**          | _lorem ipsum,lorem ipsum,_       |
 | **Community Engagement :**          | _lorem ipsum,lorem ipsum,_       |
