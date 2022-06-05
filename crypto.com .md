@@ -193,7 +193,7 @@
  - Once created, your collectible will be viewable immediately and made available for listing once minted. Note that minting time may vary depending on network usage. 
 
  - Once your NFTs have been minted on the blockchain they can't be removed or modified. Additionally, collectibles can only be assigned to a collection at the moment of their upload. NFTs can't be added to a collection after being minted.  
-  -
+  
 
 <br>
 
@@ -260,9 +260,11 @@ function distribute() {
 
 ## _Conclusion_ :
 
--
--
--
+- Crypto.com is a good choice for cryptocurrency traders looking for a platform with relatively low fees and an extensive list of supported currencies.
+
+- It’s best for people who feel confident managing a financial account through a mobile app and may be ideal for those with intermediate cryptocurrency knowledge and experience.
+
+- Like other cryptocurrency exchanges, customer service isn’t a strong suit for Crypto.com, so plan on a primarily self-service experience. If you’re comfortable with that, Crypto.com could be a suitable option for your needs.
 
 <br>
 
@@ -286,8 +288,10 @@ function distribute() {
 
 <br>
 
--
--
+- https://crypto.com/nft/
+- https://www.investopedia.com/crypto-com-review-5209370#:~:text=Overall%2C%20Crypto.com%20is%20best,currency%2C%20not%20just%20an%20investment.
+- https://time.com/nextadvisor/investing/cryptocurrency/crypto-com-review/
+- https://crypto.com/nft/marketplace
 
 <br>
 
