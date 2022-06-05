@@ -96,30 +96,46 @@ However, there’s no fee for minting. And except a $3 submission fee, there are
   <br>
 
 - **_Payment Methods :_**
-
+Pay with Crypto.com App *, Pay with Ethereum wallets (MetaMask, WalletConnect or others) , Pay with Cronos wallets (MetaMask, WalletConnect or others) , Pay with Bitcoin Wallets , Pay with Crypto.org Chain Wallets.
   -
   - <br>
 
 - **_Buyer Fee :_**
 
-  -
+  - Buyers do not pay additional fees for making purchases. Simply select the NFT you like and pay the exact amount of the listed price. [Referance](https://help.crypto.com/en/articles/5074395-buying-and-selling)_
   -
 
   <br>
 
 - **_Seller Fee :_**
 
-  -
+  - if you are the seller, normally a 5% processing fee will be deducted from the total purchase amount to cover the operational costs of the platform. [Referance](https://help.crypto.com/en/articles/5074395-buying-and-selling)_
   - <br>
 
 - **_Royalties :_**
 
-  -
+  - Note that royalties are fixed at 10% for resales of collectibles created directly by creators through the platform.
   - <br>
 
 - **_Listing Type/ Selling Methods :_**
 
-  -
+  - Fixed Price Model 
+
+The seller sets a fixed price for the item. 
+
+The buyer purchases the item at its fixed price. 
+
+  - Auction Model 
+
+1. The seller puts an item up for auction by inputting the end date and the minimum bid amount.
+
+2. The buyer places a bid, which has to be higher than the previous highest bid by 5% or USD 10, whichever is higher. Please note the highest bidder cannot cancel his/her bid.
+
+3. Sellers can choose to end the auction earlier by a) canceling the auction, and the current top bidder gets a refund, or b) terminating the auction early, and the current top bidder wins the bid**. When the auction ends, the current top bidder wins the bid. If it ends without any bids, the item goes back to the ‘Not for sale’ status. 
+
+* Each edition can have a standalone auction, meaning that a collectible with 100 editions can at most have 100 auctions happening simultaneously. 
+
+** Auctions cannot be canceled or terminated by sellers within 24 hours prior to the expiration time.
   - <br>
 
 - **_Categories :_**
@@ -207,7 +223,11 @@ However, there’s no fee for minting. And except a $3 submission fee, there are
 
 - **_Minting NFT :_**
 
-  -
+  - Once approved as a creator, you can mint collectibles on our platform. Begin by clicking on the “Create” button on the navigation bar, and providing all the required details. You can create up to 50 collectibles per week and 10 editions for each collectible
+
+- Once created, your collectible will be viewable immediately and made available for listing once minted. Note that minting time may vary depending on network usage. 
+
+- Once your NFTs have been minted on the blockchain they can't be removed or modified. Additionally, collectibles can only be assigned to a collection at the moment of their upload. NFTs can't be added to a collection after being minted.  
   -
 
 <br>
@@ -222,7 +242,10 @@ function mint() {
 
 - **_Buying Process :_**
 
-  -
+  - You can purchase items that are available in primary sales (including ‘drops’) or secondary sales. Pay with a credit/debit card, your account balance, or with Crypto.com Pay - via the Crypto.com App or using a wallet that supports ERC20 tokens (e.g., Metamask, WalletConnect). If you have accumulated some account balance, you can then use it to make purchases once you have connected your Crypto.com App account (KYC required).
+- Please note that you must have the same email address for Crypto.com NFT and Crypto.com App. If you use different email addresses, we recommend you to change the email address on the App. You can click the gear icon located in the top left of the App homepage and then click into your profile to change your email address. 
+- If you would like to use Crypto.com Pay, please click the ‘Crypto.com Pay’ button on the payment method page to proceed to checkout. You will then see a pop-up page with various wallet options. Once you have chosen your preferred wallet, please scan a pop-up QR code and/or follow the on-screen instructions to connect your wallet and complete the payment.
+
   -
 
 <br>
