@@ -49,10 +49,10 @@
 | **Listing Type/ Selling Methods :** | Fixed price and auction model       |
 | **Categories :**                    |Art, celebrities, Crypto, Gaming, Music, Sports |
 | **Recommended Wallets :**           |Ethereum wallets, Cronos wallets, Bitcoin wallets or Crypto.org Chain Wallets |
-| **File Format :**                   | JPEG, JPG, PNG, GIF and WEBP  [Referance](https://help.crypto.com/en/articles/5588880-nft-creation)_    |
-| **Max File Size :**                 | 60MB per collectible   [Referance](https://help.crypto.com/en/articles/5588880-nft-creation)_     |
+| **File Format :**                   | JPEG, JPG, PNG, GIF and WEBP  [Referance](https://help.crypto.com/en/articles/5588880-nft-creation)    |
+| **Max File Size :**                 | 60MB per collectible   [Referance](https://help.crypto.com/en/articles/5588880-nft-creation)     |
 | **Media Storage :**                 | IPFS      |
-| **Ownership :**                     | non Custodial_       |
+| **Ownership :**                     | non Custodial       |
 | **Licensing :**                     | Creator owns all legal right      |
 | **KYC :**                           | Full legal name, Picture of government-issued ID, Selfie |
 | **Community Engagement :**          | Discord, Telegram, Instagram     |
