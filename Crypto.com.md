@@ -152,7 +152,7 @@
 * Each edition can have a standalone auction, meaning that a collectible with 100 editions can at most have 100 auctions happening simultaneously. 
 
 ** Auctions cannot be canceled or terminated by sellers within 24 hours prior to the expiration time.
-  - <br>
+   <br>
 
 - **_Categories :_**
 
