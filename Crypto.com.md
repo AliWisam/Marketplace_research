@@ -112,7 +112,7 @@
   - Pay with Bitcoin Wallets
   - Pay with Crypto.org Chain Wallets.
  
-  - <br>
+  <br>
 
 - **_Buyer Fee :_**
 
@@ -189,7 +189,6 @@
   - Discord
   - Telegram
 
-
 <br>
 
 ## _Contracts Description_ :
@@ -225,8 +224,6 @@
 
   - If you would like to use Crypto.com Pay, please click the ‘Crypto.com Pay’ button on the payment method page to proceed to checkout. You will then see a pop-up page with various wallet options. Once you have chosen your preferred wallet, please scan a pop-up QR code and/or follow the on-screen instructions to connect your wallet and complete the payment.
 
-  -
-
 <br>
 
 ```javascript
@@ -257,8 +254,6 @@ function buy() {
 <br>
 
 ---
-
-<br>
 
 ## _Sources :_
 
