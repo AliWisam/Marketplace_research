@@ -170,7 +170,7 @@
 
 - **_File Format :_**
 
-  - JPEG, JPG, PNG, GIF and WEBP  [Referance](https://help.crypto.com/en/articles/5588880-nft-creation)_ 
+  - JPEG, JPG, PNG, GIF and WEBP  [Referance](https://help.crypto.com/en/articles/5588880-nft-creation)
  
    <br>
 
