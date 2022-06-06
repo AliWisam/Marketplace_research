@@ -123,7 +123,7 @@
 
 - **_Seller Fee :_**
 
-  - if you are the seller, normally a 5% processing fee will be deducted from the total purchase amount to cover the operational costs of the platform. [Referance](https://help.crypto.com/en/articles/5074395-buying-and-selling)_
+  - if you are the seller, normally a 5% processing fee will be deducted from the total purchase amount to cover the operational costs of the platform. [Referance](https://help.crypto.com/en/articles/5074395-buying-and-selling)
   
   <br>
 
