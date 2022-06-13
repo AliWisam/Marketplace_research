@@ -43,11 +43,11 @@ About $18 billion of the trading volume on the platform, or about 95% of the tot
 
 | Parameters :                        | Details :                        |
 | ----------------------------------- | -------------------------------- |
-| **Hosting**                         | _[Cloudflarer](https://www.cloudflare.com/?utm_source=Get-More-Visits&utm_medium=Add-All-Your-Plans-To-HostAdvice&utm_term=ItsFree&utm_campaign=HostAdvice)_ |
+| **Hosting**                         | _[Cloudflare](https://www.cloudflare.com/?utm_source=Get-More-Visits&utm_medium=Add-All-Your-Plans-To-HostAdvice&utm_term=ItsFree&utm_campaign=HostAdvice)_ |
 | **Node.js**                         | _[nodejs](https://nodejs.org/en/)_ |
 | **React**                           | _[reactjs](https://reactjs.org)_ |
 | **Royalty Registry**                | _[Royalty Registry](https://royaltyregistry.xyz/)_ |
-| **OpenZeppelin Contracts**          | [OpenZeppelin](https://openzeppelin.com/contracts/)_ |
+| **OpenZeppelin**                    | _[OpenZeppelin](https://openzeppelin.com/contracts/)_ |
 
 
 <br>
