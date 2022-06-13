@@ -208,11 +208,12 @@ _An offer may be made for an NFT before it is minted, although we generally not 
 
 <br>
 
-- [code-423n4](https://github.com/code-423n4/2022-02-foundation#readme)
 - [foundation.app](https://foundation.app)
 - [help.foundation](https://help.foundation.app/hc/en-us)
-- [Royalty Registry](https://royaltyregistry.xyz/)
 - [Fmarket](https://etherscan.io/address/0xcDA72070E455bb31C7690a170224Ce43623d0B6f#code#L1)
+- [code-423n4](https://github.com/code-423n4/2022-02-foundation#readme)
+- [Royalty Registry](https://royaltyregistry.xyz/)
+
 
 <br>
 
