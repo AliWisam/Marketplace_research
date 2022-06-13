@@ -32,7 +32,7 @@ The Foundation is a NFT marketplace which was invite only in its beginning (by g
 | ----------------------------------- | -------------------------------- |
 | **Hosting**                         | _[vercel](https://vercel.com/pricing)_ |
 | **Node.js**                         | _[nodejs](https://nodejs.org/en/)_ |
-| **React**                           | _[/reactjs](https://reactjs.org)_ |
+| **React**                           | _[reactjs](https://reactjs.org)_ |
 | **Royalty Registry**                | _[Royalty Registry](https://royaltyregistry.xyz/)_ |
 | **OpenZeppelin**                    | _[OpenZeppelin](https://openzeppelin.com/contracts/)_ |
 
