@@ -20,8 +20,23 @@
 
 ## _Introduction_ :
 
-The Foundation is a NFT marketplace which was invite only in its beginning (by geting high profile colerctors like [PleasrDAO](https://pleasr.org#) creaters or NFT for [tor](https://www.torproject.org) and [Edward Snowden](https://foundation.app/@Snowden) ) made it self a premium / trustable reputation through with it still 
-distinguishes it self and charges its users 15% fee with is double the fee of other marketplaces.
+The Foundation is a NFT marketplace which was invite only in its beginning (by geting high profile colerctors like [PleasrDAO](https://pleasr.org#) creaters or NFT for [tor](https://www.torproject.org) and [Edward Snowden](https://foundation.app/@Snowden) ) made it self a premium / trustable reputation through with it still distinguishes it self and charges its reseller 15%,Creator 5% with is double the fee of other marketplaces.
+
+---
+<br>
+
+
+## **Dependencies** :
+
+| Parameters :                        | Details :                        |
+| ----------------------------------- | -------------------------------- |
+| **Hosting**                         | _[vercel](https://vercel.com/pricing)_ |
+| **Node.js**                         | _[nodejs](https://nodejs.org/en/)_ |
+| **React**                           | _[/reactjs](https://reactjs.org)_ |
+| **Royalty Registry**                | _[Royalty Registry](https://royaltyregistry.xyz/)_ |
+
+<br>
+
 
 <br>
 
@@ -33,7 +48,7 @@ distinguishes it self and charges its users 15% fee with is double the fee of ot
 | ----------------------------------- | -------------------------------- |
 | **Supported Blockchains :**         | _Ethereum_ |
 | **Payment Methods :**               | _Ethereum_ |
-| **Buyer Fee :**                     | _Percentage: 0%_ |
+| **Creator Fee :**                   | _Percentage: 5%_ |
 | **Seller Fee :**                    | _Percentage: 15%_ |
 | **Royalties :**                     | _Percentage: 10%_ |
 | **Listing Type/ Selling Methods :** | _Auction ,Sale _       |
@@ -213,6 +228,7 @@ _An offer may be made for an NFT before it is minted, although we generally not 
 - [Fmarket](https://etherscan.io/address/0xcDA72070E455bb31C7690a170224Ce43623d0B6f#code#L1)
 - [code-423n4](https://github.com/code-423n4/2022-02-foundation#readme)
 - [Royalty Registry](https://royaltyregistry.xyz/)
+- [terms](https://foundation.app/terms)
 
 
 <br>
