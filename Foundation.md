@@ -43,7 +43,7 @@ distinguishes it self and charges its users 15% fee with is double the fee of ot
 | **Max File Size :**                 | _50 Megabyte_       |
 | **Media Storage :**                 | _IPFS_   |
 | **Ownership :**                     | _non Custodial_       |
-| **Licensing :**                     | _Creator owns all legal right_       |
+| **Licensing :**                     | _Creator must own all legal right: DMCA Title 18, Section 1621._       |
 | **KYC :**                           | _Twitter , Instagram_ |
 | **Community Engagement :**          | _Twitter , Instagram_       |
 
