@@ -46,26 +46,25 @@ About $18 billion of the trading volume on the platform, or about 95% of the tot
 | Parameters :                        | Details :                        |
 | ----------------------------------- | -------------------------------- |
 | **Supported Blockchains :**         | Ethereum                         |
-| **Payment Methods :**               | Ethereum                         |
+| **Payment Methods :**               | ETH/WETH, Look                         |
 | **Buyer Fee :**                     | 0%                               |
 | **Seller Fee :**                    | 2% excluding private sales.  [[Link]](https://docs.looksrare.org/about/rewards/platform-fee) | 
 | **Royalties :**                     | true [[Link]](https://www.business2community.com/nft/best-marketplaces/looksrare-review) |
 | **Listing Type/ Selling Methods :** | like opensea      |
+| **Sale Type:**                      |  Fixed, Auction  |
 | **Categories :**                    | generative art projects like Bored Ape Yacht Club [[Link]](https://nftdroops.com/marketplaces/looksrare/) |
 | **Recommended Wallets :**           | Metamask,WalletConnect,Coinbase [[Link]](https://looksrare.org/)|
-| **File Format :**                   | _lorem ipsum,lorem ipsum,_       |
-| **Max File Size :**                 | _lorem ipsum,lorem ipsum,_       |
-| **Media Storage :**                 | _lorem ipsum,lorem ipsum,_       |
-| **Decentralization :**              | _lorem ipsum,lorem ipsum,_       |
-| **Protocol Supported :**            | _lorem ipsum,lorem ipsum,_       |
+| **File Format :**                   | .png, .jpeg, .jpg, .gif, .tif, .tiff, .raw, .svg, .glb        |
+| **Max File Size :**                 | 200MB      |
+| **Media Storage :**                 | True      |
+| **Decentralization :**              | Yes       |
 | **Ownership :**                     | 0xbfb6669ef4c4c71ae6e722526b1b8d7d9ff9a019[[Link]](https://etherscan.io/address/0x59728544b08ab483533076417fbbb2fd0b17ce3a#readContract)       |
 | **Licensing :**                     | _MIT[[Link]](https://etherscan.io/address/0x59728544b08ab483533076417fbbb2fd0b17ce3a#code)_       |
-| **Governance :**                    | _lorem ipsum,lorem ipsum,_       |
+| **Governance :**                    | No       |
 | **Staking :**                       | _true_       |
 | **KYC :**                           | _Twitter,Instagram, Discord_       |
-| **Regulation :**                    | _lorem ipsum,lorem ipsum,_       |
-| **Company Registration :**          | _lorem ipsum,lorem ipsum,_       |
-| **Community Engagement :**          | _lorem ipsum,lorem ipsum,_       |
+| **Company Registration :**          | No    |
+| **Community Engagement :**          | Good    |
 
 ---
 
