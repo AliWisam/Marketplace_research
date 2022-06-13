@@ -47,6 +47,8 @@ About $18 billion of the trading volume on the platform, or about 95% of the tot
 | **Node.js**                         | _[nodejs](https://nodejs.org/en/)_ |
 | **React**                           | _[reactjs](https://reactjs.org)_ |
 | **Royalty Registry**                | _[Royalty Registry](https://royaltyregistry.xyz/)_ |
+| **OpenZeppelin Contracts**          | [OpenZeppelin](https://openzeppelin.com/contracts/)_ |
+
 
 <br>
 
