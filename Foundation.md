@@ -10,7 +10,7 @@
 
 | _Name :_                |        _Email :_         | _Role :_ |
 | :----------------- | :--------------------------: | -------------: |
-| _Ali Wisam_        | *raliwisaam73@gmail.com*     |  Team Leader   |
+| _Ali Wisam_        | *aliwisaam73@gmail.com*     |  Team Leader   |
 | _Burhan Saleemi_   | *burhansaleemi@tutanota.com* |  Researcher    |
 | _Ruwaifa Tahir_    | *ruwaifatahir@gmail.com*     |  Repository    |
 
