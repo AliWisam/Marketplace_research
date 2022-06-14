@@ -393,8 +393,8 @@ function matchAskWithTakerBidUsingETHAndWETH(
 
 - **_Cancel Orders :_**
 
-  -
-  -
+  - @notice Cancel all pending orders for a sender
+  - @param minNonce minimum user nonce
 
 <br>
 
