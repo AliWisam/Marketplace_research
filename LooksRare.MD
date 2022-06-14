@@ -198,7 +198,7 @@ About $18 billion of the trading volume on the platform, or about 95% of the tot
 
 <br>
 
-- **_Buying Process 1:_**
+- **_Buying Process 1:_**  [[Link]](https://github.com/LooksRare/contracts-exchange-v1/blob/master/contracts/LooksRareExchange.sol)
 
   - @notice Match ask with a taker bid order using ETH
   - @param takerBid taker bid order
@@ -269,7 +269,7 @@ function matchAskWithTakerBidUsingETHAndWETH(
 
 <br>
 
-- **_Buying Process 2:_**
+- **_Buying Process 2:_**  [[Link]](https://github.com/LooksRare/contracts-exchange-v1/blob/master/contracts/LooksRareExchange.sol)
 
   - @notice Match a takerBid with a matchAsk
   - @param takerBid taker bid order
@@ -330,7 +330,7 @@ function matchAskWithTakerBidUsingETHAndWETH(
 ```
 
 
-- **_Buying Process 3:_**
+- **_Buying Process 3:_**  [[Link]](https://github.com/LooksRare/contracts-exchange-v1/blob/master/contracts/LooksRareExchange.sol)
 
   - @notice Match a takerAsk with a makerBid
   - @param takerAsk taker ask order
@@ -412,7 +412,7 @@ function cancelAllOrdersForSender(uint256 minNonce) external {
 <br>
 
 
-- **_Distribution of funds :_**
+- **_Distribution of funds :_**  [[Link]](https://github.com/LooksRare/contracts-exchange-v1/blob/master/contracts/LooksRareExchange.sol)
     - @notice Transfer fees and funds to royalty recipient, protocol, and seller
     - @param strategy address of the execution strategy
     - @param collection non fungible token address for the transfer
@@ -477,7 +477,7 @@ function _transferFeesAndFunds(
 <br>
 
 
-- **_Royalty Fee calculation:_** (https://github.com/gianni-dalerta/awesome-nft)
+- **_Royalty Fee calculation:_** [[Link]](https://github.com/LooksRare/contracts-exchange-v1/blob/master/contracts/RoyaltyFeeManager.sol)
     - @notice Calculate royalty fee and get recipient
     - @param collection address of the NFT contract
     - @param tokenId tokenId
