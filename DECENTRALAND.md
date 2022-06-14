@@ -64,10 +64,10 @@ The Marketplace is the go-to place to trade and manage all your Decentraland on-
 | Parameters :                        | Details :                                                                                                                                               |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Supported Blockchains :**         | _Polygon, Ethereum_                                                                                                                                     |
-| **Payment Methods :**               | _MANA, Ethereum_                                                                                                                                        |
+| **Payment Methods :**               | _Polygon MANA, Ethereum Mana_                                                                                                                           |
 | **Buyer Fee :**                     | _0%_                                                                                                                                                    |
 | **Seller Fee :**                    | _2.5%_                                                                                                                                                  |
-| **Royalties :**                     | _Not yet, but coming soon_                                                                                                                              |
+| **Royalties :**                     | _Yes_                                                                                                                                                   |
 | **Listing Type/ Selling Methods :** | Direct Sale                                                                                                                                             |
 | **Categories :**                    | _land, wearables, emotes, Names_                                                                                                                        |
 | **Recommended Wallets :**           | _Metamask, Formatic, WalletConnect, Ledger_                                                                                                             |
@@ -124,7 +124,18 @@ The Marketplace is the go-to place to trade and manage all your Decentraland on-
     - The commission fee on this platform is 2.5%.
   - It is comparatively less than the fees on most marketplaces.
   - When a wearable creator made a sale in the primary market, they received the listing price minus a commission of 2.5%, which went to the Decentraland DAO.
-  - However, when the sale occurred in the secondary market, the owner of the item (not necessarily the original creator!) received the sale price minus the 2.5% commission, which still went to the DAO.<br>
+  - However, when the sale occurred in the secondary market, the owner of the item (not necessarily the original creator!) received the sale price minus the 2.5% commission, which still went to the DAO.
+  - **Listing Fee :**
+    - There is alo listing fee feature in contract which can be set by owner
+  - **Publication fees :**
+
+    - There is a required fee for publishing items. This fee was voted in place by the Decentraland DAO This fee exists to deter users from publishing an excessive number of wearables in an attempt to “spam” the wearables market.
+
+    - The fee is a flat rate of $500 value (paid in MANA) per item (not NFT!) in your collection.
+
+    - Previously it was 500 MANA, with MANA’s value increase, it was lowered to equal $500 in a recent DAO vote.
+
+  <br>
 
 - **_Royalties :_**
 
@@ -289,6 +300,10 @@ The Marketplace is the go-to place to trade and manage all your Decentraland on-
 
 <br>
 
+[**_Decentraland Marketplace Contracts_**](https://github.com/decentraland/marketplace-contracts)
+
+<br>
+
 - **_Minting NFT :_**
 
   -
@@ -306,44 +321,83 @@ function mint() {
 
 - **_Buying Process :_**
 
-  -
-  -
+  - Checks if nftAdress is contract or EOA and if nftAddress have correct ERC721 implementation.
+  - Calculate commision which can be updated by marketplace owner
+  - Transfers commision to marketplace owner, and remaining to seller.
+  - Tranfers NFT from seller to buyer
+  - Delete the item data from contract
 
 <br>
 
-```javascript
-function buy() {
-  return "Congrats! You bought NFT for 1 ETH";
-}
+```java
+  function executeOrder(
+    address nftAddress,
+    uint256 assetId,
+    uint256 price
+  )
+   public
+   whenNotPaused
+  {
+    _executeOrder(
+      nftAddress,
+      assetId,
+      price,
+      ""
+    );
+  }
 ```
 
 <br>
 
 - **_Order Booking :_**
 
-  -
-  -
+  - Creates a new order
+  - Generates a orderId to keep track of item listings
+  - It also have **listing** fee which can beturned ON/OFF by **owner**.
+  - It does not transfer NFT from sender instead it checks if sender have already apporved the contract
 
 <br>
 
-```javascript
-function fillOrder() {
-  return "Order Filled";
-}
+```java
+ function createOrder(
+    address nftAddress,
+    uint256 assetId,
+    uint256 priceInWei,
+    uint256 expiresAt
+  )
+    public
+    whenNotPaused
+  {
+    _createOrder(
+      nftAddress,
+      assetId,
+      priceInWei,
+      expiresAt
+    );
+  }
 ```
 
 <br>
 
 - **_Funds Distribution :_**
 
-  -
+  - Calculate commision which can be updated by marketplace owner
+
   -
 
 <br>
 
-```javascript
-function distribute() {
-  return "Funds distributed sucesfuly";
+```java
+if (ownerCutPerMillion > 0) {
+  // Calculate sale share
+  saleShareAmount = price.mul(ownerCutPerMillion).div(1000000);
+
+  // Transfer share amount for marketplace Owner
+  require(acceptedToken.transferFrom(
+    sender,
+    owner(),
+    saleShareAmount
+  ), "Transfering the cut to the Marketplace owner failed");
 }
 ```
 
