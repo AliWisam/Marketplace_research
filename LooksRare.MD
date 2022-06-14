@@ -245,20 +245,202 @@ function fillOrder() {
 }
 ```
 
+
 <br>
 
-- **_Funds Distribution :_**
+- **_Buying Process 1:_**
 
-  -
-  -
+  - @notice Match ask with a taker bid order using ETH
+  - @param takerBid taker bid order
+  - @param makerAsk maker ask order
 
 <br>
 
 ```javascript
-function distribute() {
-  return "Funds distributed sucesfuly";
-}
+function matchAskWithTakerBidUsingETHAndWETH(
+        OrderTypes.TakerOrder calldata takerBid,
+        OrderTypes.MakerOrder calldata makerAsk
+    ) external payable override nonReentrant {
+        require((makerAsk.isOrderAsk) && (!takerBid.isOrderAsk), "Order: Wrong sides");
+        require(makerAsk.currency == WETH, "Order: Currency must be WETH");
+        require(msg.sender == takerBid.taker, "Order: Taker must be the sender");
+
+        // If not enough ETH to cover the price, use WETH
+        if (takerBid.price > msg.value) {
+            IERC20(WETH).safeTransferFrom(msg.sender, address(this), (takerBid.price - msg.value));
+        } else {
+            require(takerBid.price == msg.value, "Order: Msg.value too high");
+        }
+
+        // Wrap ETH sent to this contract
+        IWETH(WETH).deposit{value: msg.value}();
+
+        // Check the maker ask order
+        bytes32 askHash = makerAsk.hash();
+        _validateOrder(makerAsk, askHash);
+
+        // Retrieve execution parameters
+        (bool isExecutionValid, uint256 tokenId, uint256 amount) = IExecutionStrategy(makerAsk.strategy)
+            .canExecuteTakerBid(takerBid, makerAsk);
+
+        require(isExecutionValid, "Strategy: Execution invalid");
+
+        // Update maker ask order status to true (prevents replay)
+        _isUserOrderNonceExecutedOrCancelled[makerAsk.signer][makerAsk.nonce] = true;
+
+        // Execution part 1/2
+        _transferFeesAndFundsWithWETH(
+            makerAsk.strategy,
+            makerAsk.collection,
+            tokenId,
+            makerAsk.signer,
+            takerBid.price,
+            makerAsk.minPercentageToAsk
+        );
+
+        // Execution part 2/2
+        _transferNonFungibleToken(makerAsk.collection, makerAsk.signer, takerBid.taker, tokenId, amount);
+
+        emit TakerBid(
+            askHash,
+            makerAsk.nonce,
+            takerBid.taker,
+            makerAsk.signer,
+            makerAsk.strategy,
+            makerAsk.currency,
+            makerAsk.collection,
+            tokenId,
+            amount,
+            takerBid.price
+        );
+    }
 ```
+
+
+<br>
+
+- **_Buying Process 2:_**
+
+  - @notice Match a takerBid with a matchAsk
+  - @param takerBid taker bid order
+  - @param makerAsk maker ask order
+
+<br>
+
+```javascript
+ function matchAskWithTakerBid(OrderTypes.TakerOrder calldata takerBid, OrderTypes.MakerOrder calldata makerAsk)
+        external
+        override
+        nonReentrant
+    {
+        require((makerAsk.isOrderAsk) && (!takerBid.isOrderAsk), "Order: Wrong sides");
+        require(msg.sender == takerBid.taker, "Order: Taker must be the sender");
+
+        // Check the maker ask order
+        bytes32 askHash = makerAsk.hash();
+        _validateOrder(makerAsk, askHash);
+
+        (bool isExecutionValid, uint256 tokenId, uint256 amount) = IExecutionStrategy(makerAsk.strategy)
+            .canExecuteTakerBid(takerBid, makerAsk);
+
+        require(isExecutionValid, "Strategy: Execution invalid");
+
+        // Update maker ask order status to true (prevents replay)
+        _isUserOrderNonceExecutedOrCancelled[makerAsk.signer][makerAsk.nonce] = true;
+
+        // Execution part 1/2
+        _transferFeesAndFunds(
+            makerAsk.strategy,
+            makerAsk.collection,
+            tokenId,
+            makerAsk.currency,
+            msg.sender,
+            makerAsk.signer,
+            takerBid.price,
+            makerAsk.minPercentageToAsk
+        );
+
+        // Execution part 2/2
+        _transferNonFungibleToken(makerAsk.collection, makerAsk.signer, takerBid.taker, tokenId, amount);
+
+        emit TakerBid(
+            askHash,
+            makerAsk.nonce,
+            takerBid.taker,
+            makerAsk.signer,
+            makerAsk.strategy,
+            makerAsk.currency,
+            makerAsk.collection,
+            tokenId,
+            amount,
+            takerBid.price
+        );
+    }
+
+```
+
+
+- **_Buying Process 3:_**
+
+  - @notice Match a takerAsk with a makerBid
+  - @param takerAsk taker ask order
+  - @param makerBid maker bid order
+
+<br>
+
+```javascript
+    function matchBidWithTakerAsk(OrderTypes.TakerOrder calldata takerAsk, OrderTypes.MakerOrder calldata makerBid)
+        external
+        override
+        nonReentrant
+    {
+        require((!makerBid.isOrderAsk) && (takerAsk.isOrderAsk), "Order: Wrong sides");
+        require(msg.sender == takerAsk.taker, "Order: Taker must be the sender");
+
+        // Check the maker bid order
+        bytes32 bidHash = makerBid.hash();
+        _validateOrder(makerBid, bidHash);
+
+        (bool isExecutionValid, uint256 tokenId, uint256 amount) = IExecutionStrategy(makerBid.strategy)
+            .canExecuteTakerAsk(takerAsk, makerBid);
+
+        require(isExecutionValid, "Strategy: Execution invalid");
+
+        // Update maker bid order status to true (prevents replay)
+        _isUserOrderNonceExecutedOrCancelled[makerBid.signer][makerBid.nonce] = true;
+
+        // Execution part 1/2
+        _transferNonFungibleToken(makerBid.collection, msg.sender, makerBid.signer, tokenId, amount);
+
+        // Execution part 2/2
+        _transferFeesAndFunds(
+            makerBid.strategy,
+            makerBid.collection,
+            tokenId,
+            makerBid.currency,
+            makerBid.signer,
+            takerAsk.taker,
+            takerAsk.price,
+            takerAsk.minPercentageToAsk
+        );
+
+        emit TakerAsk(
+            bidHash,
+            makerBid.nonce,
+            takerAsk.taker,
+            makerBid.signer,
+            makerBid.strategy,
+            makerBid.currency,
+            makerBid.collection,
+            tokenId,
+            amount,
+            takerAsk.price
+        );
+    }
+```
+
+
+<br>
 
 ---
 
