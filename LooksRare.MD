@@ -198,56 +198,6 @@ About $18 billion of the trading volume on the platform, or about 95% of the tot
 
 <br>
 
-- **_Minting NFT :_**
-
-  -
-  -
-
-<br>
-
-```javascript
- function mint(address account, uint256 amount) external override onlyOwner returns (bool status) {
-        if (totalSupply() + amount <= _SUPPLY_CAP) {
-            _mint(account, amount);
-            return true;
-        }
-        return false;
-    }
-```
-
-<br>
-
-- **_Buying Process :_**
-
-  -
-  -
-
-<br>
-
-```javascript
-function buy() {
-  return "Congrats! You bought NFT for 1 ETH";
-}
-```
-
-<br>
-
-- **_Order Booking :_**
-
-  -
-  -
-
-<br>
-
-```javascript
-function fillOrder() {
-  return "Order Filled";
-}
-```
-
-
-<br>
-
 - **_Buying Process 1:_**
 
   - @notice Match ask with a taker bid order using ETH
@@ -437,6 +387,90 @@ function matchAskWithTakerBidUsingETHAndWETH(
             takerAsk.price
         );
     }
+```
+
+<br>
+
+- **_Cancel Orders :_**
+
+  -
+  -
+
+<br>
+
+```javascript
+function cancelAllOrdersForSender(uint256 minNonce) external {
+      require(minNonce > userMinOrderNonce[msg.sender], "Cancel: Order nonce lower than current");
+      require(minNonce < userMinOrderNonce[msg.sender] + 500000, "Cancel: Cannot cancel more orders");
+      userMinOrderNonce[msg.sender] = minNonce;
+
+      emit CancelAllOrders(msg.sender, minNonce);
+  }
+```
+
+
+<br>
+
+
+- **_Distribution of funds :_**
+    - @notice Transfer fees and funds to royalty recipient, protocol, and seller
+    - @param strategy address of the execution strategy
+    - @param collection non fungible token address for the transfer
+    - @param tokenId tokenId
+    - @param currency currency being used for the purchase (e.g., WETH/USDC)
+    - @param from sender of the funds
+    - @param to seller's recipient
+    - @param amount amount being transferred (in currency)
+    - @param minPercentageToAsk minimum percentage of the gross amount that goes to ask
+
+<br>
+
+```javascript
+function _transferFeesAndFunds(
+      address strategy,
+      address collection,
+      uint256 tokenId,
+      address currency,
+      address from,
+      address to,
+      uint256 amount,
+      uint256 minPercentageToAsk
+  ) internal {
+      // Initialize the final amount that is transferred to seller
+      uint256 finalSellerAmount = amount;
+
+      // 1. Protocol fee
+      {
+          uint256 protocolFeeAmount = _calculateProtocolFee(strategy, amount);
+
+          // Check if the protocol fee is different than 0 for this strategy
+          if ((protocolFeeRecipient != address(0)) && (protocolFeeAmount != 0)) {
+              IERC20(currency).safeTransferFrom(from, protocolFeeRecipient, protocolFeeAmount);
+              finalSellerAmount -= protocolFeeAmount;
+          }
+      }
+
+      // 2. Royalty fee
+      {
+          (address royaltyFeeRecipient, uint256 royaltyFeeAmount) = royaltyFeeManager
+              .calculateRoyaltyFeeAndGetRecipient(collection, tokenId, amount);
+
+          // Check if there is a royalty fee and that it is different to 0
+          if ((royaltyFeeRecipient != address(0)) && (royaltyFeeAmount != 0)) {
+              IERC20(currency).safeTransferFrom(from, royaltyFeeRecipient, royaltyFeeAmount);
+              finalSellerAmount -= royaltyFeeAmount;
+
+              emit RoyaltyPayment(collection, tokenId, royaltyFeeRecipient, currency, royaltyFeeAmount);
+          }
+      }
+
+      require((finalSellerAmount * 10000) >= (minPercentageToAsk * amount), "Fees: Higher than expected");
+
+      // 3. Transfer final amount (post-fees) to seller
+      {
+          IERC20(currency).safeTransferFrom(from, to, finalSellerAmount);
+      }
+  }
 ```
 
 
