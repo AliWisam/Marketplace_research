@@ -147,56 +147,48 @@ About $18 billion of the trading volume on the platform, or about 95% of the tot
 
 - **_File Format :_**
 
-  -
+  - .png, .jpeg, .jpg, .gif, .tif, .tiff, .raw, .svg, .glb   
 
 - **_Max File Size :_**
 
-  -
+  - 200MB
 
 - **_Media Storage :_**
 
-  -
+  - True
 
 - **_Decentralization :_**
 
-  -
-
-- **_Protocol Supported :_**
-
-  -
+  - Yes
 
 - **_Ownership :_**
 
-  -
+  - 0xbfb6669ef4c4c71ae6e722526b1b8d7d9ff9a019
 
 - **_Licensing :_**
 
-  -
+  - MIT
 
 - **_Governance :_**
 
-  -
+  - No
 
 - **_Staking :_**
 
-  -
+  - TRUE
 
 - **_KYC :_**
 
-  -
+  - Twitter,Instagram, Discord
 
-- **_Regulation :_**
-
-  -
 
 - **_Company Registration :_**
 
-  -
+  - No
 
 - **_Community Engagement :_**
 
-  -
-  -
+  - Good
 
 ---
 
