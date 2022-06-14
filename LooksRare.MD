@@ -21,7 +21,7 @@
 ## _Introduction_ :
 
 
-LooksRare is a decentralized, community-first NFT marketplace that actively rewards traders, token stakers, creators and collectors for participating on the platform. [[1]](https://docs.looksrare.org/about/welcome-to-looksrare)
+LooksRare is a decentralized, community-first NFT marketplace that actively rewards traders, token stakers, creators and collectors for participating on the platform. [[Link]](https://docs.looksrare.org/about/welcome-to-looksrare)
 
 Part of being community-first means that LooksRare rewards, empowers, and gives back to the platform's users and creators.
 
@@ -196,6 +196,26 @@ About $18 billion of the trading volume on the platform, or about 95% of the tot
 
 ## _Contracts Description_ :
 
+<br>
+
+- **_Minting of Looks ERC20 - Token  :_**  [[Link]](https://github.com/LooksRare/contracts-token-staking/blob/master/contracts/LooksRareToken.sol)
+
+  - @notice Mint LOOKS tokens
+  - @param account address to receive tokens
+  - @param amount amount to mint
+  - @return status true if mint is successful, false if not
+
+<br>
+
+```javascript
+function mint(address account, uint256 amount) external override onlyOwner returns (bool status) {
+      if (totalSupply() + amount <= _SUPPLY_CAP) {
+          _mint(account, amount);
+          return true;
+      }
+      return false;
+  }
+```
 <br>
 
 - **_Buying Process 1:_**  [[Link]](https://github.com/LooksRare/contracts-exchange-v1/blob/master/contracts/LooksRareExchange.sol)
