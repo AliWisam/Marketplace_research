@@ -476,6 +476,36 @@ function _transferFeesAndFunds(
 
 <br>
 
+
+- **_Royalty Fee calculation:_** (https://github.com/gianni-dalerta/awesome-nft)
+    - @notice Calculate royalty fee and get recipient
+    - @param collection address of the NFT contract
+    - @param tokenId tokenId
+    - @param amount amount to transfer
+
+<br>
+
+```javascript
+function calculateRoyaltyFeeAndGetRecipient(
+        address collection,
+        uint256 tokenId,
+        uint256 amount
+    ) external view override returns (address, uint256) {
+        // 1. Check if there is a royalty info in the system
+        (address receiver, uint256 royaltyAmount) = royaltyFeeRegistry.royaltyInfo(collection, amount);
+
+        // 2. If the receiver is address(0), fee is null, check if it supports the ERC2981 interface
+        if ((receiver == address(0)) || (royaltyAmount == 0)) {
+            if (IERC165(collection).supportsInterface(INTERFACE_ID_ERC2981)) {
+                (receiver, royaltyAmount) = IERC2981(collection).royaltyInfo(tokenId, amount);
+            }
+        }
+        return (receiver, royaltyAmount);
+    }
+```
+
+<br>
+
 ---
 
 <br>
@@ -486,30 +516,6 @@ function _transferFeesAndFunds(
 
 ---
 
-<br>
-
-## _Contributors_ :
-
--
--
--
-
-<br>
-
----
-
-<br>
-
-## _Sources :_
-
-<br>
-
--
--
-
-<br>
-
----
 
 <br>
 
@@ -519,3 +525,5 @@ function _transferFeesAndFunds(
 
 - [NFT Recourses](https://github.com/gianni-dalerta/awesome-nft)
 - [Marketplaces Sheet](https://docs.google.com/spreadsheets/d/1Q_6GnX7DhFDBD4hHKaMUkesMIO9rxJx5ewcKVv4Tjag/edit)
+- [LooksRare Github Repo](https://github.com/LooksRare/contracts-exchange-v1/tree/master/contracts)
+
