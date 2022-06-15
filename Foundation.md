@@ -178,7 +178,7 @@ _`maxPrice` protects the buyer in case a the price is increased but allows the t
 
 
 - **_acceptOffer :_**
-- 
+
 <br>
 
 ```javascript
