@@ -75,14 +75,11 @@ The Marketplace is the go-to place to trade and manage all your Decentraland on-
 | **Max File Size :**                 | _15 MB [Reference](https://nonfungibletalk.com/guides/nft-files-what-size-and-format-should-you-use/)_                                                  |
 | **Media Storage :**                 | _BitTorrent and Kademlia DHT networks_                                                                                                                  |
 | **Decentralization :**              | _Yes_                                                                                                                                                   |
-| **Protocol Supported :**            | _lorem ipsum,lorem ipsum,_                                                                                                                              |
 | **Ownership :**                     | _Community Owned_                                                                                                                                       |
 | **Licensing :**                     | _Open Source_                                                                                                                                           |
 | **Governance :**                    | _Yes_                                                                                                                                                   |
 | **Staking :**                       | _No_                                                                                                                                                    |
 | **KYC :**                           | _No_                                                                                                                                                    |
-| **Regulation :**                    | _lorem ipsum,lorem ipsum,_                                                                                                                              |
-| **Company Registration :**          | _lorem ipsum,lorem ipsum,_                                                                                                                              |
 | **Community Engagement :**          | _Good_                                                                                                                                                  |
 
 ---
@@ -93,12 +90,12 @@ The Marketplace is the go-to place to trade and manage all your Decentraland on-
 
 <br>
 
-| Contracts :             |         Details :          |
-| :---------------------- | :------------------------: |
-| **Minting NFT**         | _lorem ipsum, lorem ipsum_ |
-| **Buying Process**      | _lorem ipsum, lorem ipsum_ |
-| **Order Booking**       | _lorem ipsum, lorem ipsum_ |
-| **Funcds Distribution** | _lorem ipsum, lorem ipsum_ |
+| Contracts :             |                                             Details :                                             |
+| :---------------------- | :-----------------------------------------------------------------------------------------------: |
+| **Minting NFT**         | [**_Decentraland Marketplace Contracts_**](https://github.com/decentraland/marketplace-contracts) |
+| **Buying Process**      | [**_Decentraland Marketplace Contracts_**](https://github.com/decentraland/marketplace-contracts) |
+| **Order Booking**       | [**_Decentraland Marketplace Contracts_**](https://github.com/decentraland/marketplace-contracts) |
+| **Funcds Distribution** | [**_Decentraland Marketplace Contracts_**](https://github.com/decentraland/marketplace-contracts) |
 
 <br>
 
@@ -239,12 +236,6 @@ The Marketplace is the go-to place to trade and manage all your Decentraland on-
   - The Marketplace is a fully decentralized application built using Ethereum smart contracts, giving you us completely trustless exchange for LAND.
 
   - Most importantly, they have removed any counterparty risk by designing the Marketplace to facilitate atomic swaps — transactions that are only finalized if both parties fulfil their obligation before a timer expires. All of the code for the Marketplace is open source, transparent, and continually updated.
-  - <br>
-
-- **_Protocol Supported :_**
-
-  -
-  - <br>
 
 - **_Ownership :_**
 
@@ -253,11 +244,6 @@ The Marketplace is the go-to place to trade and manage all your Decentraland on-
   - Further, the founding team claims the private key that controlled Decentraland’s smart contract has been destroyed.
 
     <br>
-
-- **_Licensing :_**
-
-  -
-  - <br>
 
 - **_Governance :_**
 
@@ -277,21 +263,6 @@ The Marketplace is the go-to place to trade and manage all your Decentraland on-
 
   <br>
 
-- **_Regulation :_**
-
-  -
-  - <br>
-
-- **_Company Registration :_**
-
-  -
-  - <br>
-
-- **_Community Engagement :_**
-
-  -
-  -
-
 ---
 
 <br>
@@ -305,9 +276,6 @@ The Marketplace is the go-to place to trade and manage all your Decentraland on-
 <br>
 
 - **_Minting NFT :_**
-
-  -
-  -
 
 <br>
 
@@ -404,12 +372,6 @@ if (ownerCutPerMillion > 0) {
 ---
 
 <br>
-
-## _Conclusion_ :
-
--
--
--
 
 <br>
 
