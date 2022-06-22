@@ -27,7 +27,7 @@
 | _Muhammad Kashif Nawaz_ |     *demo@gmail.com*     |  No Role |
 | _Umair Riaz_            |     *demo@gmail.com*     |  No Role |
 | _Zaeem Tariq_           |     *demo@gmail.com*     |  No Role |
-
+| _Muhammad Nauman Tayyab_|     *demo@gmail.com*     |  No Role |
 ---
 
 <br>
