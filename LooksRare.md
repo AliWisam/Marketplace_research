@@ -106,6 +106,9 @@ About $18 billion of the trading volume on the platform, or about 95% of the tot
 |Listing an NFT for a Fixed Price|Select the NFT and click on Sell button, set price and Approve the token for selling|
 |Accepting an offer on your NFT|Navigate to individual page for NFT, from list of offers user can select any offer by clicking on accept button|
 
+## How to Set Up Your Collection
+|Collection setup||
+
 
 
 
