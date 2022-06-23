@@ -97,7 +97,14 @@ About $18 billion of the trading volume on the platform, or about 95% of the tot
 | :---------------------- | :----------------------: | 
 |Buying a fixed price NFT | NFT can bought with **WETH, ETH** or a combination for two|
 |Making a collection offer| User can place the same **WETH** offer on every item within a collection. This means that anyone holding an item of the collection is able to accept your offer.If a seller accepts your collection offer, it will automatically be withdrawn from all other items in the collection.|
-|Making an offer on an NFT|User can make offer with **WETH**|
+|Making an offer on an NFT|User can make offer with **WETH** for any item in website|
+
+
+## Selling NFTs
+| Selling NFTs.      |     Method.        |
+|:-------------------|:-------------------|
+|Listing an NFT for a Fixed Price|Select the NFT and click on Sell button, set price and Approve the token for selling|
+|Accepting an offer on your NFT|Navigate to individual page for NFT, from list of offers user can select any offer by clicking on accept button|
 
 
 
