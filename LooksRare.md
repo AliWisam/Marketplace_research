@@ -99,8 +99,8 @@ About $18 billion of the trading volume on the platform, or about 95% of the tot
 |Making a collection offer| User can place the same **WETH** offer on every item within a collection. This means that anyone holding an item of the collection is able to accept your offer.If a seller accepts your collection offer, it will automatically be withdrawn from all other items in the collection.|
 |Making an offer on an NFT|User can make offer with **WETH** for any item in website|
 
-![img](https://docs.looksrare.org/assets/images/buy-now-950e5b44f90334d2f81d9126be0f67a4.png)
 
+<img src="https://docs.looksrare.org/assets/images/buy-now-950e5b44f90334d2f81d9126be0f67a4.png" width="750" >
 
 ## Selling NFTs
 | Selling NFTs.      |     Method.        |
@@ -108,7 +108,7 @@ About $18 billion of the trading volume on the platform, or about 95% of the tot
 |Listing an NFT for a Fixed Price|Select the NFT and click on Sell button, set price and Approve the token for selling|
 |Accepting an offer on your NFT|Navigate to individual page for NFT, from list of offers user can select any offer by clicking on accept button|
 
-![img](https://docs.looksrare.org/assets/images/sell-button-bd4ffa802cff7f05a01c0ff014b7792d.png)
+<img src="https://docs.looksrare.org/assets/images/sell-button-bd4ffa802cff7f05a01c0ff014b7792d.png" width="750" >
 
 ## How to Set Up Your Collection
 |Collection setup|      Method           |
@@ -120,7 +120,7 @@ About $18 billion of the trading volume on the platform, or about 95% of the tot
 |Notable|Closely affiliated with a high-profile public figure or organization|
 |Eligibility to request verification|Once a collection has accumulated 250 ETH/WETH or more in volume on LooksRare (excluding private sales), the owner of the collection will be able to request verification from the collection page.|
 
-![img](https://docs.looksrare.org/assets/images/my-collections-sidebar-8d428c26214fb443dbddf6bdb70edf94.png) ![img](https://docs.looksrare.org/assets/images/collection-manage-button-c56a7fe62d0fa6d043d7548fff5eb2df.png)
+![img](https://docs.looksrare.org/assets/images/collection-manage-button-c56a7fe62d0fa6d043d7548fff5eb2df.png)![img](https://docs.looksrare.org/assets/images/my-collections-sidebar-8d428c26214fb443dbddf6bdb70edf94.png) 
 
 ## What Is The LOOKS Airdrop?
 |Name            |      Description      |
