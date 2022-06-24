@@ -99,6 +99,8 @@ About $18 billion of the trading volume on the platform, or about 95% of the tot
 |Making a collection offer| User can place the same **WETH** offer on every item within a collection. This means that anyone holding an item of the collection is able to accept your offer.If a seller accepts your collection offer, it will automatically be withdrawn from all other items in the collection.|
 |Making an offer on an NFT|User can make offer with **WETH** for any item in website|
 
+![img](https://docs.looksrare.org/assets/images/buy-now-950e5b44f90334d2f81d9126be0f67a4.png)
+
 
 ## Selling NFTs
 | Selling NFTs.      |     Method.        |
