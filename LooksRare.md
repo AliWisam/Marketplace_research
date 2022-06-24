@@ -140,6 +140,21 @@ About $18 billion of the trading volume on the platform, or about 95% of the tot
 |Is it still tradeabel|Explicit items will still be tradeable and will be discoverable when searching for them directly in the search bar|
 
 
+## Glossary
+|Name            |      Description      |
+|----------------|-----------------------|
+|APR|Annual Percentage Return|
+|Collection|A set of NFTs within the same contract|
+|Collection Offer|An offer which gets submitted on all items within a collection|
+|Contract|An Ethereum smart contract|
+|Floor Price|The lowest amount of money required to spend to obtain an NFT using the Buy Now function|
+|Gas|The cost required to perform a transaction, priced in GWEI|
+|LOOKS|The native token of LooksRare|
+|Private Listing|A listing which is pre-determined between a buyer and seller. These listings do not generate trading rewards, as they are not charged platform fees|
+|Royalties|Fees which are paid to collection owners upon each trade done on LooksRare. Private listings still pay royalties to the collection owner.|
+|WETH|WETH is Wrapped Ether. WETH is an ERC-20 compatible version of ETH. 1 ETH will always be equivalent to 1 WETH. ETH on its own cannot be pre-approved (no approval) for bidding on items. That's why it needs to be wrapped.|
+
+
 ## _Marketplace Contracts_ :
 
 <br>
