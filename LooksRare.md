@@ -123,9 +123,21 @@ About $18 billion of the trading volume on the platform, or about 95% of the tot
 |Who Can Claim the Airdrop|n short, anyone with a combined 3 ETH trading volume or more on Opensea over a six month period (from Ethereum Block 12642194 on 16th Jun 2021 to Block 13812868 on 16th Dec 2021) is eligible to claim LOOKS, once they list an ERC-721 or ERC-1155 NFT for sale on LooksRare.|
 |Airdrop Duration|a short window of 7-10 days and Any LOOKS that isn’t claimed by the end of the airdrop period will go to the treasury for use in ecosystem development.|
 |Conditions to Claim|To claim the designated airdrop, an eligible user must first successfully list any ERC-721 or ERC-1155 NFT on the LooksRare exchange.|
-|Tiers|[[Link]](https://docs.looksrare.org/guides/faqs/what-is-the-looks-airdrop#tiers)|
+|Tiers|[Read here](https://docs.looksrare.org/guides/faqs/what-is-the-looks-airdrop#tiers)|
 |LOOKS Token Contract|[0xf4d2888d29d722226fafa5d9b24f9164c092421e](https://etherscan.io/address/0xf4d2888d29d722226fafa5d9b24f9164c092421e#code)|
 
+
+
+## What Is Explicit Content?
+
+|How does LooksRare define explicit content |      Description      |
+|-------------------------------------------|-----------------------|
+|The explicit tag may be applied to content which matches one or more of the following criteria.|
+|1|Strong references to violence, physical, or mental abuse.|
+|2|Sexual content such as pornographic material.|
+|3|Discriminatory language such as racial slurs.|
+|What happens if my content is marked as explicit?|collection or individual NFT will not display on the explore page, or on the homepage of LooksRare|
+|Is it still tradeabel|Explicit items will still be tradeable and will be discoverable when searching for them directly in the search bar|
 
 
 ## _Marketplace Contracts_ :
