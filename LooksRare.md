@@ -108,6 +108,8 @@ About $18 billion of the trading volume on the platform, or about 95% of the tot
 |Listing an NFT for a Fixed Price|Select the NFT and click on Sell button, set price and Approve the token for selling|
 |Accepting an offer on your NFT|Navigate to individual page for NFT, from list of offers user can select any offer by clicking on accept button|
 
+![img](https://docs.looksrare.org/assets/images/sell-button-bd4ffa802cff7f05a01c0ff014b7792d.png)
+
 ## How to Set Up Your Collection
 |Collection setup|      Method           |
 |----------------|-----------------------|
@@ -117,6 +119,8 @@ About $18 billion of the trading volume on the platform, or about 95% of the tot
 |High-volume|Successfully achieved 250 ETH or more|
 |Notable|Closely affiliated with a high-profile public figure or organization|
 |Eligibility to request verification|Once a collection has accumulated 250 ETH/WETH or more in volume on LooksRare (excluding private sales), the owner of the collection will be able to request verification from the collection page.|
+
+![img](https://docs.looksrare.org/assets/images/my-collections-sidebar-8d428c26214fb443dbddf6bdb70edf94.png) ![img](https://docs.looksrare.org/assets/images/collection-manage-button-c56a7fe62d0fa6d043d7548fff5eb2df.png)
 
 ## What Is The LOOKS Airdrop?
 |Name            |      Description      |
