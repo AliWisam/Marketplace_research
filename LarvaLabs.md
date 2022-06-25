@@ -21,21 +21,14 @@
 Larva Labs is a New York-based mobile software firm. They create apps for iOS and Android smartphones. Some of their products’ highlights include the number one paid game on Android, RetroDefense, and a picture manipulation app in the top 50 on iPhone, PhotoTwist.
 
 Two of the most popular projects of Larva Labs besides CryptoPunks are Autoglyphs and Meebits.
-CryptoPunks is one of the first Ethereum-based non-fungible tokens. These are algorithmically generated unique digital works of art of 24×24 pixel size. There are only 10,000 unique CryptoPunks. Most of the punks are human characters, i.e., 6039 are males and 3840 are females NFTs. Some special categories like Zombie (88), Ape (24), and Alien (9) are also present. Each of these punks has its page that contains the details about its features, owner, availability status, and transaction history.
+## _CryptoPunks_
+Punks is one of the first Ethereum-based non-fungible tokens. These are algorithmically generated unique digital works of art of 24×24 pixel size. There are only 10,000 unique CryptoPunks. Most of the punks are human characters, i.e., 6039 are males and 3840 are females NFTs. Some special categories like Zombie (88), Ape (24), and Alien (9) are also present. Each of these punks has its page that contains the details about its features, owner, availability status, and transaction history.
 
 ---
 
 <br>
 
-## **Dependencies** :
 
-| Parameters :         | Details :                                             |
-| -------------------- | ----------------------------------------------------- |
-| **Hosting**          | _[vercel](https://vercel.com/pricing)_                |
-| **Node.js**          | _[nodejs](https://nodejs.org/en/)_                    |
-| **React**            | _[reactjs](https://reactjs.org)_                      |
-| **Royalty Registry** | _[Royalty Registry](https://royaltyregistry.xyz/)_    |
-| **OpenZeppelin**     | _[OpenZeppelin](https://openzeppelin.com/contracts/)_ |
 
 <br>
 
@@ -49,19 +42,16 @@ CryptoPunks is one of the first Ethereum-based non-fungible tokens. These are al
 | ----------------------------------- | ---------------------------------------------------------------- |
 | **Supported Blockchains :**         | _Ethereum_                                                       |
 | **Payment Methods :**               | _Ethereum_                                                       |
-| **Creator Fee :**                   | _Percentage: 5%_                                                 |
-| **Seller Fee :**                    | _Percentage: 15%_                                                |
-| **Royalties :**                     | _Percentage: 10%_                                                |
-| **Listing Type/ Selling Methods :** | _Auction ,Sale_                                                  |
-| **Categories :**                    | _Art,Photo,Video_                                                |
-| **Recommended Wallets :**           | _Metamask,WalletConnect,Coinbase_                                |
+| **Listing Type/ Selling Methods :** | _Bid,Sale_                                                       |
+| **Categories :**                    | _Art,Photo                                                       |
+| **Recommended Wallets :**           | _Metamask                                                        |
 | **File Format :**                   | _.JPG,.MP4_                                                      |
 | **Max File Size :**                 | _50 Megabyte_                                                    |
 | **Media Storage :**                 | _IPFS_                                                           |
 | **Ownership :**                     | _non Custodial_                                                  |
 | **Licensing :**                     | _Creator must own all legal right: DMCA Title 18, Section 1621._ |
 | **KYC :**                           | _Twitter , Instagram_                                            |
-| **Community Engagement :**          | _Twitter , Instagram_                                            |
+| **Community Engagement :**          | [Discord](https://discord.gg/tQp4pSE)                            |
 
 ---
 
