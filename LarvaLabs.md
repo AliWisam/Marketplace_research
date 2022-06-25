@@ -41,22 +41,28 @@ Punks is one of the first Ethereum-based non-fungible tokens. These are algorith
 | Parameters :                        | Details :                                                        |
 | ----------------------------------- | ---------------------------------------------------------------- |
 | **Supported Blockchains :**         | _Ethereum_                                                       |
-| **Payment Methods :**               | _Ethereum_                                                       |
+| **Payment Methods :**               | _Ethereum_ (ETH)                                                 |
 | **Listing Type/ Selling Methods :** | _Bid,Sale_                                                       |
 | **Categories :**                    | _Art,Photo                                                       |
-| **Recommended Wallets :**           | _Metamask                                                        |
+| **Recommended Wallets :**           | _Metamask,_Coinbase                                                        |
 | **File Format :**                   | _.JPG,.MP4_                                                      |
-| **Max File Size :**                 | _50 Megabyte_                                                    |
+| **Max File Size :**                 | CryptoPunks are 24×24 pixel art images                                                  |
 | **Media Storage :**                 | _IPFS_                                                           |
 | **Ownership :**                     | _non Custodial_                                                  |
-| **Licensing :**                     | _Creator must own all legal right: DMCA Title 18, Section 1621._ |
-| **KYC :**                           | _Twitter , Instagram_                                            |
 | **Community Engagement :**          | [Discord](https://discord.gg/tQp4pSE)                            |
 
 ---
 
 <br>
-
+| PROS :                              | ONS :                                                            |
+| ----------------------------------- | ---------------------------------------------------------------- |
+| **No service fees**                 | Limited NFT options                                              |
+| **Buy CryptoPunks and Meebits**     | V1 Punks controversy                                             |
+|                                     | Different design than most NFT marketplaces                      |
+|                                     | No NFT minting                                                   |
+ 
+---
+<br>
 ## **Working** :
 
 <br>
