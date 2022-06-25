@@ -58,12 +58,13 @@ Punks is one of the first Ethereum-based non-fungible tokens. These are algorith
 | **Payment Methods :**               | _Ethereum_ (ETH)                                                 |
 | **Listing Type/ Selling Methods :** | _Bid,Sale_                                                       |
 | **Categories :**                    | _Art,Photo                                                       |
-| **Recommended Wallets :**           | _Metamask,_Coinbase                                                        |
+| **Recommended Wallets :**           | _Metamask,_Coinbase                                              |
 | **File Format :**                   | _.JPG,.MP4_                                                      |
-| **Max File Size :**                 | CryptoPunks are 24×24 pixel art images                                                  |
-| **Media Storage :**                 | _IPFS_                                                           |
+| **Max File Size :**                 | CryptoPunks are 24×24 pixel art images                           |
+| **Media Storage :**                 | _OnChain_                                                        |
 | **Ownership :**                     | _non Custodial_                                                  |
 | **Community Engagement :**          | [Discord](https://discord.gg/tQp4pSE)                            |
+                                      | [Twitter](https://twitter.com/larvalabs)                         |
 
 ---
 
@@ -90,8 +91,36 @@ Purchase Ether: Using a cryptocurrency exchange, you may convert your cash into 
 Transfer it to your wallet: MetaMask is widely used in NFT marketplaces, and CryptoPunks supports it. Create a MetaMask account.
 Connect to Larva Labs: You can purchase and sell NFTs from the primary market, Larva Labs, or OpenSea.
 Pick a CryptoPunk and Buy It: Take your time looking over the alternatives and then pick a punk.
+ 
+ ## Usage Guide
+To explore and to buy these punks, visit their [website](https://www.larvalabs.com/cryptopunks)   .
+
+<img width="2804" alt="All Punks" src="https://miro.medium.com/max/1400/0*O9FBT81szTsmfuQr.jpg">
+
+As we have mentioned that CryptoPunks are Ethereum-based NFTs, so to access these NFTs and platforms, users are required to connect their Ethereum (MetaMask) wallet.
+
+Connect your [MetaMask](https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/metamask-tips-and-tricks-you-can-use/) wallet.
+
+From the homepage, you can get complete details about the recent transactions, punks available for sale, wrapped punks (convert CryptoPunks into ERC721), overall stats, etc.
+
+If you are planning to buy some punks, then scroll the CryptoPunks homepage and search for the option For Sale.
+
+## Platform Statistics
+Now let us see the overall statistics of the platform and find out how it is dominating the current NFT market.
+
+You can check the [Dapp website](https://www.dapp.com/dapps/blockchain-marketplace?sort=4&time=2&type=NaN) that lists the users and trading volume of the NFT marketplace.
+
+<img width="2804" alt="Trading Vol" src="https://miro.medium.com/max/1400/0*q6r3PZBOG6HQYmYr.jpg">
+
+The report shows that CryptoPunks is currently ranked at the #2 position with a monthly trading volume of $194.45 million. Though it has seen a drop of 26.37% compared to last month’s trading period.
+
+If we look at the Ethereum NFT market size, CryptoPunks hold a significant position by occupying 69.4% of the market, along with a valuation of $54.17 million currently out of the total NFT volume of $78.02 million.
+
+<img width="2804" alt="DappEth" src="https://miro.medium.com/max/1400/0*A962UrYVdu1k_oNF.jpg">
+
 
 <br>
+
 
 ## _Marketplace Contracts_ :
 
@@ -113,7 +142,7 @@ This is a brief overview of the contracts used in Foundation for more detailed i
 
 <br>
 
-<img width="2804" alt="AllPunks" src="https://github.com/larvalabs/cryptopunks/blob/master/punk-variety.png">
+<img width="2804" alt="Wallet" src="https://github.com/larvalabs/cryptopunks/blob/master/punk-variety.png">
 
 ## CryptoPunks: Collectible Characters on the Ethereum Blockchain
 
