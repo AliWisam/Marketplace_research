@@ -1,6 +1,6 @@
  <!-- Headings -->
 
-# Marketplace Research Document
+# Marketplace Research Document- Atomic Hub
 
 <br>
 
@@ -33,22 +33,12 @@ Atomic Assets was first launched in February 2020 and the Atomic Hub Marketplace
 
 | Parameters :                        | Details :                                                        |
 | ----------------------------------- | ---------------------------------------------------------------- |
-| **Supported Blockchains :**         | _Ethereum_                                                       |
-| **Payment Methods :**               | _Ethereum_                                                       |
-| **Creator Fee :**                   | _Percentage: 5%_                                                 |
-| **Seller Fee :**                    | _Percentage: 15%_                                                |
-| **Royalties :**                     | _Percentage: 10%_                                                |
-| **Listing Type/ Selling Methods :** | _Auction ,Sale_                                                  |
-| **Categories :**                    | _Art,Photo,Video_                                                |
-| **Recommended Wallets :**           | _Metamask,WalletConnect,Coinbase_                                |
-| **File Format :**                   | _.JPG,.MP4_                                                      |
-| **Max File Size :**                 | _50 Megabyte_                                                    |
-| **Media Storage :**                 | _IPFS_                                                           |
-| **Ownership :**                     | _non Custodial_                                                  |
-| **Licensing :**                     | _Creator must own all legal right: DMCA Title 18, Section 1621._ |
-| **KYC :**                           | _Twitter , Instagram_                                            |
+| **Blockchain :**                    | _WAX Blockchain_                                                 |
+| **Payment Methods :**               |  Credit Card, Paypal                                            |
+| **Commission:**                     | _Percentage: 2%_                                                 | 
+| **Categories:**                     | Trading Cards, Collectibles                                    | 
 | **Community Engagement :**          | _Twitter , Instagram_                                            |
-
+| **NFTs**                             | Splinterlands, Alien Worlds, RPlanet, GPK Topps, KOGS Market    | 
 ---
 
 <br>
@@ -56,75 +46,37 @@ Atomic Assets was first launched in February 2020 and the Atomic Hub Marketplace
 ## **Working Details** :
 
 <br>
-Larva Labs established its own marketplace on the CryptoPunks website in addition to developing the CryptoPunks themselves. Users may place bids, purchase, and sell CryptoPunks here. By installing and linking your MetaMask, you may engage with the marketplace. CryptoPunks have also made their way onto OpenSea, a prominent Ethereum-based NFT platform. These pixel punks, on the other hand, are a little different. They’ve been wrapped in ERC-721 tokens, making them tradeable on NFT exchanges.
+Atomic Hub marketplace allows any uniquely created and original artworks to be listed on its platform. At the time of whitelisting, the portal seeks proof of originality from the artist. Proof of originality may include detailed descriptions of how the artwork was created or raw files.
+<br>
 
-Purchasing CryptoPunks is a simple process. If you understand how blockchain works, it simply takes a few steps. To learn how it works, follow the step-by-step instructions below.
+<img width="2804" alt="AtHMF" src="https://cwstatic.nyc3.digitaloceanspaces.com/2020/03/29/images/3/atomic%20hub%20-%20nft%20market%20place%20explorer.jpg">
 
-Purchase Ether: Using a cryptocurrency exchange, you may convert your cash into Ether and transfer it to your wallet.
-Transfer it to your wallet: MetaMask is widely used in NFT marketplaces, and CryptoPunks supports it. Create a MetaMask account.
-Connect to Larva Labs: You can purchase and sell NFTs from the primary market, Larva Labs, or OpenSea.
-Pick a CryptoPunk and Buy It: Take your time looking over the alternatives and then pick a punk.
+## Atomic Hub Marketplace Fees
+When you make a trade at Atomic Hub marketplace, they charge you with a commission. The commission is normally a percentage of the sale amount in the relevant trade.
+
+Atomic Hub Marketplace charges 2.00% of the total sales price as platform commission, automatically deducted by smart contracts at the time of sale. Additional fees like royalty or blockchain fees may also be applicable. However, this will be deducted directly from the sales price instead of being levied as an additional charge to the sales price.
+
+## Layout of Atomic Hub Marketplace
+Different NFT Marketplaces present their NFTs, the latest bid and the remaining time of an auction etc. in different ways. What you are most comfortable with viewing and using is up to you and no one else. The following picture is a print screen from Atomic Hub Marketplace showing a specific NFT.
+
+
+<img width="2804" alt="AtomicHubMarketplace" src="https://cwstatic.nyc3.digitaloceanspaces.com/2020/03/29/images/3/atomic%20hub%20-%20individual%20asset%20image%201.jpg">
+
+Each artwork has a unique ID. The artist has to define multiple parameters like the Asset name, Collection name and Schema name. The artist also has to include the properties of the asset — like transferability or the option to burn the asset.
+
+The portal also lists the pricing history of the asset, based on the template ID. To make the interface more buyer-friendly, the portal also lists the recent transfer history and other suggested artworks that could interest the buyer.
+
+
+<img width="2804" alt="PriceHistory" src="https://cwstatic.nyc3.digitaloceanspaces.com/2020/03/29/images/3/atomic%20hub%20-%20individual%20asset%20price%20history.jpg">
+
+## Atomic Hub Marketplace Payment Methods
+
+A few of the NFT Marketplaces out there accept deposits and payments via credit or debit card, and some even accept PayPal-deposits.
+
+Atomic Hub Marketplace does not support Credit Cards or PayPal. WAX tokens will be the only supported tokens, as far as we know. The portal has a functionality that allows new tokens to be added over time. However, these new token additions will be determined as and when the demand arises. Alternatively, users can price their assets in USD. But at the time of settlement, they would be paid by WAX tokens, converted at the prevailing rates.
 
 <br>
 
-## _Marketplace Contracts_ :
-
-<br>
-
-| Contracts : |                                                                Details :                                                                |
-| :---------- | :-------------------------------------------------------------------------------------------------------------------------------------: |
-|             |
-| **Market**  | _[Contract](https://etherscan.io/address/0xcDA72070E455bb31C7690a170224Ce43623d0B6f#code#L1) which allows traders to buy and sell NFTs_ |
-|             |
-
-<br>
-
----
-
-## _Contracts Description_ :
-
-This is a brief overview of the contracts used in Foundation for more detailed information you can use the links given
-
-<br>
-
-<img width="2804" alt="AllPunks" src="https://github.com/larvalabs/cryptopunks/blob/master/punk-variety.png">
-
-## CryptoPunks: Collectible Characters on the Ethereum Blockchain
-
-CryptoPunks are 10,000 unique collectible characters with proof of ownership stored on the Ethereum blockchain. No two are exactly alike, and each one of them can be officially owned by a single person as managed and verified by a contract running on the Ethereum blockchain. You can see which punks are still available along with some more general information over at https://www.larvalabs.com/cryptopunks
-
-This repo contains the Ethereum contract used to manage the Punks, a verifiable image of all the punks, and a unit test to verify the contract's functionality.
-
-### Some Questions
-
-- **How much do the punks cost?** When we first released the project, you could claim a punk by simply paying the transaction fee of around 11 cents. Now, you have to buy a punk from someone else and need to pay the market rate, which at the moment is around 0.3 ETH (~$80 USD). See http://www.larvalabs.com/cryptopunks for the current average price.
-- **How much is a punk worth?** Like many things, they're worth whatever someone will pay. People have spent 10 ETH (around $3,000) on the the rarest types.
-- **How were the punk images created?** With a generator that was programmed to generate punks with a range of features and rarity. For example, there are only 88 Zombie Punks, 24 Apes, 9 Aliens and exactly [1 Alien Punk smoking a pipe](https://www.larvalabs.com/cryptopunks/details/7804).
-
-### How to Use the CryptoPunks Contract
-
-The easiest way is to use [MyEtherWallet](https://www.myetherwallet.com/#contracts) which has added CryptoPunks to their contract dropdown. If you prefer to use an Ethereum wallet on your computer, the main CryptoPunks contract can be found at address **0xb47e3cd837dDF8e4c57F05d70Ab865de6e193BBB**. Watch this contract in your Ethereum wallet using that address and [this ABI file](/compiled/CryptoPunksMarket.abi).
-
-Once you are watching the contract you can execute the following functions to transact punks:
-
-- `getPunk(uint index)` to claim ownership of a punk (this is no longer useful as all 10,000 punks have been claimed).
-- `transferPunk(address to, uint index)` transfer ownership of a punk to someone without requiring any payment.
-- `offerPunkForSale(uint punkIndex, uint minSalePriceInWei)` offer one of your punks for sale to anyone willing to pay the minimum price specified (in Wei).
-- `offerPunkForSaleToAddress(uint punkIndex, uint minSalePriceInWei, address toAddress)` offer one of your punks for some minumum price, but only to the address specified. Use this to sell a punk to a specific person.
-- `enterBidForPunk(uint punkIndex)` enters a bid for the punkIndex specified. Send in the amount of your bid in the value field and we will hold that ether in escrow.
-- `acceptBidForPunk(uint punkIndex, uint minPrice)` to accept a pending bid for the specified punk. You can specify a minPrice in Wei to protect yourself from someone switching the bid for a lower bid.
-- `withdrawBidForPunk(uint punkIndex)` will withdraw a bid for the specified punk and send you the ether from the bid.
-- `buyPunk(uint punkIndex)` buy punk at the specified index. That punk needs to be previously offered for sale, and you need to have sent at least the amount of Ether specified as the sale price for the punk.
-- `withdraw()` claim all the Ether people have previously sent to buy your punks.
-
-### Verifying the Punks are 100% Authentic and Legit CryptoPunks™
-
-<img width="2804" alt="All Punks" src="https://github.com/larvalabs/cryptopunks/raw/master/punks.png">
-This is the official and genuine image of all of the CryptoPunks that have been created. To allow verification that the punks being managed by the CryptoPunks Ethereum contract are the same as what you see in the image, we have embedded a SHA256 hash of the image file into the contract. You can generate this hash for the punks image file via a command line similar to `openssl sha -sha256 punks.png` and compare that to the embedded hash in the contract `ac39af4793119ee46bbff351d8cb6b5f23da60222126add4268e261199a2921b`.
-
----
-
-<br>
 
 ## _Sources :_
 
