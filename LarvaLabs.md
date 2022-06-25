@@ -63,8 +63,7 @@ Punks is one of the first Ethereum-based non-fungible tokens. These are algorith
 | **Max File Size :**                 | CryptoPunks are 24×24 pixel art images                           |
 | **Media Storage :**                 | _OnChain_                                                        |
 | **Ownership :**                     | _non Custodial_                                                  |
-| **Community Engagement :**          | [Discord](https://discord.gg/tQp4pSE)                            |
-                                      | [Twitter](https://twitter.com/larvalabs)                         |
+| **Community Engagement :**          | [Discord](https://discord.gg/tQp4pSE),[Twitter](https://twitter.com/larvalabs)|
 
 ---
 
