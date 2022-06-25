@@ -18,10 +18,24 @@
 
 ## _Introduction_ :
 
-Larva Labs is a New York-based mobile software firm. They create apps for iOS and Android smartphones. Some of their products’ highlights include the number one paid game on Android, RetroDefense, and a picture manipulation app in the top 50 on iPhone, PhotoTwist.
+Larva Labs is a New York-based mobile software firm. They create apps for iOS and Android smartphones. Some of their products’ highlights include the number one paid game on Android, RetroDefense, and a picture manipulation app in the top 50 on iPhone, PhotoTwist. The CryptoPunks marketplace is on the Larva Labs website. It also has a marketplace for the team's other NFT project, Meebits.
+
+The Larva Labs site isn't strictly an NFT market. It also showcases the company's other projects, which include blockchain art, apps, and gaming. Although Larva Labs is best known for its NFTs, its web platform is much different than what you see on other NFT marketplaces.
+
+In March 2022, Larva Labs sold the CryptoPunks and Meebits intellectual properties to Yuga Labs, creator of the rival NFT collection Bored Apes Yacht Club. Although Yuga Labs now owns both collections, the CryptoPunks and Meebits marketplaces are still on Larva Lab's website.
 
 Two of the most popular projects of Larva Labs besides CryptoPunks are Autoglyphs and Meebits.
-## _CryptoPunks_
+
+# **Top Perks**
+
+### No Service fees
+Larva Labs doesn't charge any service fees on either the CryptoPunks marketplace or the Meebits marketplace when buying NFTs. Note that because the marketplaces use the Ethereum blockchain, transactions have gas fees. The gas fees on each NFT sale are charged by Ethereum and not by Larva Labs.
+
+### Buy CryptoPunk and Meebits
+The CryptoPunks are some of the most popular NFTs, and if you want to buy one, you can do so on Larva Labs. This company also offers newer types of digital collectibles called Meebits, although those haven't had as much success or recognition as CryptoPunks.
+
+
+# CryptoPunks
 Punks is one of the first Ethereum-based non-fungible tokens. These are algorithmically generated unique digital works of art of 24×24 pixel size. There are only 10,000 unique CryptoPunks. Most of the punks are human characters, i.e., 6039 are males and 3840 are females NFTs. Some special categories like Zombie (88), Ape (24), and Alien (9) are also present. Each of these punks has its page that contains the details about its features, owner, availability status, and transaction history.
 
 ---
@@ -64,6 +78,7 @@ Punks is one of the first Ethereum-based non-fungible tokens. These are algorith
  
 ---
 <br>
+
 ## **Working** :
 
 <br>
@@ -136,6 +151,41 @@ This is the official and genuine image of all of the CryptoPunks that have been 
 ---
 
 <br>
+
+# What could be improved
+## Limited NFT options
+This site only has two NFT collections available, and they're both lines of digital characters. If you want to shop for other types of NFTs, such as digital art or videos, this isn't the best NFT marketplace for you.
+
+Also worth mentioning is that Larva Lab's NFTs tend to be expensive. CryptoPunks normally cost hundreds of thousands of dollars in Ethereum, which puts them out of most people's price range.
+
+To be fair, Larva Labs is a software development company, and its site is home to the team's professional projects. It's not built to be a massive NFT marketplace with something for everybody. But if you came across it while searching for a CryptoPunks NFT, it's good to know what you will and won't find on the company's website.
+
+## V1 Punks controversy
+
+Larva Labs' reputation took a hit after an incident related to V1 Punks, the original CryptoPunks project released by the lab. This version isn't as popular as the official CryptoPunks collection that Larva Labs made after, but it has seen some success as the alternative version of such a popular project.
+
+In January 2022, one of the Larva Labs founders sold 40 of these V1 Punks for 260 ETH (worth well over $500,000 at that time). Just weeks later, Larva Labs released a statement saying V1 Punks aren't real CryptoPunks. Then, it announced it planned to take legal action against the V1 Punks collection.
+
+To sum it up, a Larva Labs founder made a significant sum selling V1 Punks, and the company then went after that very same NFT collection. This seriously damaged its credibility in the NFT space.
+
+## Different design than most NFT marketplaces
+
+Both the Larva Labs website and the CryptoPunks marketplace have much different layouts than a typical NFT marketplace. For example, the CryptoPunks marketplace includes large collages of different characters and lets you sort through them based on their types and attributes.
+
+Because of how different it is, there's a bit of a learning curve to using the platform and finding the NFT you want. Compared to other marketplaces, it's not as beginner friendly.
+
+
+## No NFT minting
+Larva Labs is designed for buying and selling its own NFTs. It's not a place where you can mint NFTs of your own and list them for sale.
+
+## Alternatives to consider
+
+If you want to check out more NFT collections: Rarible has a massive selection of NFTs from both popular collections, like Bored Ape Yacht Club, and smaller offerings. You can find many different types of NFTs here, including digital art, videos, and characters, and there are NFTs available at every price range.
+
+If you're interested in minting your own NFTs: Mintable has one of the fastest, most user-friendly processes for NFT minting. It also gives you the option of gasless minting, which allows you to mint an NFT without paying the typical gas fees to the blockchain network.
+
+
+
 
 ## _Sources :_
 
