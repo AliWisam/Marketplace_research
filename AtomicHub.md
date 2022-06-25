@@ -195,7 +195,7 @@ It offers a powerful feature set while keeping unnecessary complexity to a minim
 
 - [wax.atomichub.io](https://wax.atomichub.io/)
 - [medium.com](https://pinkgg.medium.com/atomichub-launches-on-eos-ed49a275fe53)
-
+- [pinkgg.medium.com](https://pinkgg.medium.com/atomicassets-1-0-launching-the-atomichub-493c9242c1ff)
 <br>
 
 ---
