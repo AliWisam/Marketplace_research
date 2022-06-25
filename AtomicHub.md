@@ -33,7 +33,7 @@ Atomic Assets was first launched in February 2020 and the Atomic Hub Marketplace
 
 | Parameters :                        | Details :                                                        |
 | ----------------------------------- | ---------------------------------------------------------------- |
-| **Blockchain :**                    | _WAX Blockchain_ , _ EOS                                         |
+| **Blockchain :**                    | _WAX Blockchain_ ,   _EOS_                                       |
 | **Payment Methods :**               |  Credit Card, Paypal                                             |
 | **Commission:**                     | _Percentage: 2%_                                                 | 
 | **Categories:**                     | Trading Cards, Collectibles                                      | 
@@ -77,6 +77,35 @@ Atomic Hub Marketplace does not support Credit Cards or PayPal. WAX tokens will 
 
 <br>
 
+## **A Trading Interface**
+
+The trading interface allows you to see the trade offers that you received and the ones that you sent, and it of course also allows you to create new trade offers. You are also able to transfer NFTs directly if you don’t want anything in return.
+
+An additional exciting feature are “Shared Links”. You are able to select which NFTs you want to include, and then a link is generated. Anyone opening this link will then be able to claim the NFTs. This means you could for example easily share an NFT with a person without having to know their blockchain account, possibly even with someone who doesn’t even have a blockchain account yet and is then incentivized to create one.
+## **An NFT Creator**
+
+Using the NFT Creator, anyone is able to create their own collections and mint their own NFTs, without requiring any programming knowledge.
+
+    The first step is to create a Collection. Collections are like a group for NFTs that are of a similar theme, e.g. that belong to the same Dapp.
+    For example, Garbage Pail Kids could be a collection
+    The second step is creating a Schema. Schemas belong to a specific collection, and a collection can have multiple schemas. They define which kind of attributes the assets will have (in tech terms: the data structure).
+    In the GPK example, Series 1 could be a schema, and the attributes could be Name, Image, ID, Variant, Rarity and Mint Number.
+    The third step is optional, but can be very useful. It’s creating a Template, which belongs to a certain schema. Once again, a schema can have multiple templates.
+    Think of a template as a set of predefined attributes. Assets can later reference a template and then have the attribute values that were set in the template automatically. Templates can also have a maximum supply, which can give NFTs provable scarcity.
+    In the GPK example, you could create one template for every variation of the cards. On template could for example define the values:
+    - Name: “Fryin’ Brian”
+    - Image: A certain IPFS Hash
+    - ID: 4
+    - Variant: “A”
+    - Rarity: “Golden”
+    and set a maximum supply of 25.
+    The final step is creating the asset (NFT). Assets also belong to a certain collection. When creating the asset, you set the values of the attributes that were previously defined in the schema.
+    As mentioned before, assets can also reference a template, in which case the values defined in the template are automatically applied to the asset.
+    In the GPK example, you could create 25 assets which all reference the “Fryin’ Brian” template. You would then only have to set the value of the Mint Number attribute, as all the other attributes are already set in the template.
+
+Admittedly, going through those steps for the first time is not super user friendly. However, we believe that the benefits of this more refined structure far outweigh the additional 5 minutes or so that it takes before you can create your first NFT. Also keep in mind that collections and schemas only have to be created once and can then be used over and over again in the future.
+
+Nevertheless, we already have plans to further simplify the process and we will put a lot of effort into making this process as easy to understand as possible.
 # From a developer’s perspective
 
 Happy developers are the first step for happy users. That’s why our focus when designing the AtomicAssets standard has always been to make it as powerful and versatile as possible, but without adding unnecessary complexity to deal with. But we haven’t just been working on the standard itself, we have also put a lot of work into the ecosystem surrounding it.
