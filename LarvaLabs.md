@@ -20,7 +20,8 @@
 
 Larva Labs is a New York-based mobile software firm. They create apps for iOS and Android smartphones. Some of their products’ highlights include the number one paid game on Android, RetroDefense, and a picture manipulation app in the top 50 on iPhone, PhotoTwist.
 
-Two of the most popular projects of Larva Labs besides CryptoPunks are Autoglyphs and Meebits
+Two of the most popular projects of Larva Labs besides CryptoPunks are Autoglyphs and Meebits.
+CryptoPunks is one of the first Ethereum-based non-fungible tokens. These are algorithmically generated unique digital works of art of 24×24 pixel size. There are only 10,000 unique CryptoPunks. Most of the punks are human characters, i.e., 6039 are males and 3840 are females NFTs. Some special categories like Zombie (88), Ape (24), and Alien (9) are also present. Each of these punks has its page that contains the details about its features, owner, availability status, and transaction history.
 
 ---
 
