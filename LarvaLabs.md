@@ -54,7 +54,8 @@ Punks is one of the first Ethereum-based non-fungible tokens. These are algorith
 ---
 
 <br>
-| PROS :                              | ONS :                                                            |
+
+| PROS :                              | CONS :                                                           |
 | ----------------------------------- | ---------------------------------------------------------------- |
 | **No service fees**                 | Limited NFT options                                              |
 | **Buy CryptoPunks and Meebits**     | V1 Punks controversy                                             |
