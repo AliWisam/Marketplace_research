@@ -33,12 +33,12 @@ Atomic Assets was first launched in February 2020 and the Atomic Hub Marketplace
 
 | Parameters :                        | Details :                                                        |
 | ----------------------------------- | ---------------------------------------------------------------- |
-| **Blockchain :**                    | _WAX Blockchain_                                                 |
-| **Payment Methods :**               |  Credit Card, Paypal                                            |
+| **Blockchain :**                    | _WAX Blockchain_ , _ EOS                                         |
+| **Payment Methods :**               |  Credit Card, Paypal                                             |
 | **Commission:**                     | _Percentage: 2%_                                                 | 
-| **Categories:**                     | Trading Cards, Collectibles                                    | 
-| **Community Engagement :**          | _Twitter , Instagram_                                            |
-| **NFTs**                             | Splinterlands, Alien Worlds, RPlanet, GPK Topps, KOGS Market    | 
+| **Categories:**                     | Trading Cards, Collectibles                                      | 
+| **Community Engagement :**          | [Twitter](https://twitter.com/pinknetworkx), [Telegram](https://t.me/atomicassets)                  |
+| **NFTs**                            | Splinterlands, Alien Worlds, RPlanet, GPK Topps, KOGS Market     | 
 ---
 
 <br>
@@ -77,23 +77,98 @@ Atomic Hub Marketplace does not support Credit Cards or PayPal. WAX tokens will 
 
 <br>
 
+# From a developer’s perspective
+
+Happy developers are the first step for happy users. That’s why our focus when designing the AtomicAssets standard has always been to make it as powerful and versatile as possible, but without adding unnecessary complexity to deal with. But we haven’t just been working on the standard itself, we have also put a lot of work into the ecosystem surrounding it.
+
+## Notifications for Smart Contracts
+
+Collections can specify notify accounts, which will receive on-chain inline notifications about relevant actions like transfers or burns. This allows Dapps to keep track of assets in their own smart contracts and thus make them a fully integrated part of their smart contract logic.
+
+
+
+## A powerful API
+
+We have developed a powerful API for AtomicAssets and the AtomicMarket, which makes getting the data you need very easy. It is open source (Click here), which means that you can run it on your own servers, or you can just use the endpoints provided by us (WAX AtomicAssets, WAX AtomicMarket).
+## The AtomicMarket smart contract
+
+The AtomicMarket smart contract, which is also used by the AtomicHub, is designed to have a decentralized fee structure. This means that there isn’t a single account that receives all the fees, but instead for every sale (or auction) the marketplaces facilitating the listing and the marketplace facilitating the purchase each get a 1% fee.
+
+Because marketplaces still get the full marketplace fee when using the AtomicMarket smart contract, it makes sense to use it and thus tap into the shared liquidity pool. Shared liquidity is good for marketplaces, which are able to display more interesting sales to their users, and it is good for the users, whose sales will be displayed to more potential buyers.
+
+
+
+
+# AtomicAssets
+AtomicAssets is a Non Fungible Token (NFT) standard for eosio blockchains developed by [pink.network](https://pink.network).
+
+It offers a powerful feature set while keeping unnecessary complexity to a minimum and focusses on RAM efficiency.
+
+### [Documentation can be found here.](https://github.com/pinknetworkx/atomicassets-contracts/wiki)
+
+## Useful links
+- API: https://github.com/pinknetworkx/eosio-contract-api
+- Live API example: https://wax.api.atomicassets.io/atomicassets/docs/
+- Javascript module: https://www.npmjs.com/package/atomicassets
+- Test cases (using Hydra framework): https://github.com/pinknetworkx/atomicassets-contract-tests
+- AtomicMarket (open source marketplace): https://github.com/pinknetworkx/atomicmarket-contract
+- Telegram group: https://t.me/atomicassets
+
+## Key Features
+
+- **Powerful structure**
+
+	NFTs are grouped by collections rather than their author, which allows for flexible authorizations. \
+	Schemas give NFTs an extensible data structure, which is used for the serialization. \
+	Templates store data and can be referenced by assets. This allows grouping similar assets together and saving RAM by not having to store the same data for each asset individually. Templates can also make NFTs non-transferable or non-burnable. \
+	Assets always belong to a collection and a schema, and can optionally reference a template.
+	
+- **Data Serialization**
+
+	AtomicAssets uses a custom built serialization inspired by Protobuf, which significantly reduces RAM costs compared to traditional methods (e.g. JSON strings). Serialization is done within the contract, which guarantees that no corrupt data enters the blockchain state.
+	
+- **No RAM Costs for users**
+
+	The RAM cost is paid fully by the dapps that create the assets. Even when transfering assets, this stays the same. The maximum an end user will ever have to pay are 112 bytes for their own scope, and even that will likely only rarely be necessary.
+	This also means that AtomicAssets works **without claims**. Transfers are instant and no further user action is required.
+	
+- **Minimal fixed RAM costs**
+
+	Creating an asset only costs **151 bytes** (112 of which are for the necessary index). Additionally, each token owner needs to have a scope, which costs **112 bytes**. 
+	
+- **Notifications for Smart Contracts**
+
+	Smart Contracts can get notified automatically about any relevant events related to their assets. This enables them to make the assets an integral part of their game rather than just a static token.
+	
+- **Backing assets with Fungible Tokens**
+
+	Assets can be backed by standard fungible tokens (e.g. EOS / WAX). Those tokens can only be freed by burning the asset, thus allowing dapps to give their asset a guaranteed intrinsic value.
+	
+- **Powerful Trade Offers**
+
+	AtomicAssets features a native implementation of two sided trade offers (similar to Steam or WAX Express Trade). This allows creating and accepting offers **with a single action**.
+	The implementation of the offers also allows for **peer to peer marketplaces** that don't require transferring ownership to a market contract.
+
+
+
+
+
+
+
+
+
+
+
 
 ## _Sources :_
 
 <br>
 
-- [larvalabs.com](https://www.larvalabs.com)
-- [medium.com](https://medium.com/thedapplist/what-are-cryptopunks-a7428e0fd6e6)
+- [wax.atomichub.io](https://wax.atomichub.io/)
+- [medium.com](https://pinkgg.medium.com/atomichub-launches-on-eos-ed49a275fe53)
 
 <br>
 
 ---
 
 <br>
-
-## _Resources_:
-
-<br>
-
-- [NFT Recourses](https://github.com/gianni-dalerta/awesome-nft)
-- [Marketplaces Sheet](https://docs.google.com/spreadsheets/d/1Q_6GnX7DhFDBD4hHKaMUkesMIO9rxJx5ewcKVv4Tjag/edit)
