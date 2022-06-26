@@ -41,7 +41,7 @@
 
 | Parameters :                        | Details :                        |
 | ----------------------------------- | -------------------------------- |
-| **Supported Blockchains :**         | Crypto.org Chain, Ethereum       |
+| **Supported Blockchains :**         | Crypto.org chain, Ethereum, Polygon, cronos and solana        |
 | **Payment Methods :**               | BTC, CRO, ETH, USDC, TUSD, USDT, DOGE, SHIB and many more. |
 | **Buyer Fee :**                     | Percentage: 0% |
 | **Seller Fee :**                    | Percentage: 5% |
