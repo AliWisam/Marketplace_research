@@ -56,8 +56,8 @@ The Marketplace is the go-to place to trade and manage all your Decentraland on-
 | **Listing Type/ Selling Methods :** | Direct Sale                                                                                                                                             |
 | **Categories :**                    | _land, wearables, emotes, Names_                                                                                                                        |
 | **Recommended Wallets :**           | _Metamask, Formatic, WalletConnect, Ledger_                                                                                                             |
-| **File Format :**                   | _gITF, .gltf or .glb [Referance](https://docs.decentraland.org/3d-modeling/3d-models/#:~:text=All%203D%20models%20in%20Decentraland,gltf%20or%20a%20.)_ |
-| **Max File Size :**                 | _15 MB [Reference](https://nonfungibletalk.com/guides/nft-files-what-size-and-format-should-you-use/)_                                                  |
+| **File Format :**                   | _gITF, .gltf or .glb_ |
+| **Max File Size :**                 | _15 MB_                                                  |
 | **Media Storage :**                 | _BitTorrent and Kademlia DHT networks_                                                                                                                  |
 | **Decentralization :**              | _Yes_                                                                                                                                                   |
 | **Ownership :**                     | _Community Owned_                                                                                                                                       |
