@@ -109,11 +109,7 @@ The Marketplace is the go-to place to trade and manage all your Decentraland on-
 
   - Creators of new and existing collections on Polygon will be able to set a beneficiary address per item in the collection management tool, be it themselves or a third party.
   - If a wearable is sold multiple times, it is now up to the creator to decide who benefits from all those sales!
-
-- **_Listing Type/ Selling Methods :_**
-
-  -
-  - <br>
+  - 
 
 - **_Categories :_**
 
@@ -339,16 +335,6 @@ if (ownerCutPerMillion > 0) {
 
 ---
 
-<br>
-
-## _Contributors_ :
-
-- ruwaifatahirr@gmail.com
--
-
-<br>
-
----
 
 <br>
 
@@ -363,13 +349,5 @@ if (ownerCutPerMillion > 0) {
 
 <br>
 
----
 
-<br>
 
-## _Resources_:
-
-<br>
-
-- [NFT Recourses](https://github.com/gianni-dalerta/awesome-nft)
-- [Marketplaces Sheet](https://docs.google.com/spreadsheets/d/1Q_6GnX7DhFDBD4hHKaMUkesMIO9rxJx5ewcKVv4Tjag/edit)
