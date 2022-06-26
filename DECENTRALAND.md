@@ -160,9 +160,7 @@ The Marketplace is the go-to place to trade and manage all your Decentraland on-
   - Decentraland allows its users to upload 15 MB files per parcel in size, including 3D models and audio tracks.
   - But the size of the file, like node.js packages that won’t be uploaded on the platform, isn’t counted in the total size of the uploaded files.
 
-  - File count:
-
-    - 200 files per parcel Total count of the files uploaded. Includes 3D models and audio. Doesn’t include files that aren’t uploaded, such as node.js packages.
+  - 200 files per parcel Total count of the files uploaded. Includes 3D models and audio. Doesn’t include files that aren’t uploaded, such as node.js packages.
 
     <br>
 
