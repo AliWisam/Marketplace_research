@@ -10,7 +10,7 @@
 
 | _Name :_                |        _Email :_         | _Role :_ |
 | :---------------------- | :----------------------: | -------: |
-| _Ruwaifa Tahir_         | *ruwaifatahir@gmail.com* | Researcherr |
+| _Ruwaifa Tahir_         | *ruwaifatahir@gmail.com* | Researcher |
 
 
 ---
@@ -88,11 +88,11 @@ The Marketplace is the go-to place to trade and manage all your Decentraland on-
 
   - Commission fees on Decentraland Marketplace:
     - The commission fee on this platform is 2.5%.
-  - It is comparatively less than the fees on most marketplaces.
-  - When a wearable creator made a sale in the primary market, they received the listing price minus a commission of 2.5%, which went to the Decentraland DAO.
-  - However, when the sale occurred in the secondary market, the owner of the item (not necessarily the original creator!) received the sale price minus the 2.5% commission, which still went to the DAO.
+    - It is comparatively less than the fees on most marketplaces.
+    - When a wearable creator made a sale in the primary market, they received the listing price minus a commission of 2.5%, which went to the Decentraland DAO.
+    - However, when the sale occurred in the secondary market, the owner of the item (not necessarily the original creator!) received the sale price minus the 2.5% commission, which still went to the DAO.
   - **Listing Fee :**
-    - There is alo listing fee feature in contract which can be set by owner
+    - There is also listing fee feature in contract which can be set by owner
   - **Publication fees :**
 
     - There is a required fee for publishing items. This fee was voted in place by the Decentraland DAO This fee exists to deter users from publishing an excessive number of wearables in an attempt to “spam” the wearables market.
