@@ -10,24 +10,8 @@
 
 | _Name :_                |        _Email :_         | _Role :_ |
 | :---------------------- | :----------------------: | -------: |
-| _Ali Wisam_             |     *demo@gmail.com*     |   Leader |
-| _Hasan sattar_          |     *demo@gmail.com*     |  No Role |
-| _Zeeshan Ahmad_         |     *demo@gmail.com*     |  No Role |
-| _Burhan Saleemi_        |     *demo@gmail.com*     |  No Role |
-| _Dr Mutahir Hussain_    |     *demo@gmail.com*     |  No Role |
-| _Muhammad Aquib_        |     *demo@gmail.com*     |  No Role |
-| _Muhammad Jehanzaib_    |     *demo@gmail.com*     |  No Role |
-| _Abdul Wahab_           |     *demo@gmail.com*     |  No Role |
-| _M. Umar Shahid_        |     *demo@gmail.com*     |  No Role |
-| _Asif Ali_              |     *demo@gmail.com*     |  No Role |
-| _Ruwaifa Tahir_         | *ruwaifatahir@gmail.com* |  No Role |
-| _M. Shoaib Latif_       |     *demo@gmail.com*     |  No Role |
-| _Muhammad Adil_         |     *demo@gmail.com*     |  No Role |
-| _Mukarram Ali_          |     *demo@gmail.com*     |  No Role |
-| _Muhammad Kashif Nawaz_ |     *demo@gmail.com*     |  No Role |
-| _Umair Riaz_            |     *demo@gmail.com*     |  No Role |
-| _Zaeem Tariq_           |     *demo@gmail.com*     |  No Role |
-| _Muhammad Nauman Tayyab_|     *demo@gmail.com*     |  No Role |
+| _Ruwaifa Tahir_         | *ruwaifatahir@gmail.com* | Researcherr |
+
 
 ---
 
@@ -87,16 +71,7 @@ The Marketplace is the go-to place to trade and manage all your Decentraland on-
 
 <br>
 
-## _Marketplace Contracts_ :
 
-<br>
-
-| Contracts :             |                                             Details :                                             |
-| :---------------------- | :-----------------------------------------------------------------------------------------------: |
-| **Minting NFT**         | [**_Decentraland Marketplace Contracts_**](https://github.com/decentraland/marketplace-contracts) |
-| **Buying Process**      | [**_Decentraland Marketplace Contracts_**](https://github.com/decentraland/marketplace-contracts) |
-| **Order Booking**       | [**_Decentraland Marketplace Contracts_**](https://github.com/decentraland/marketplace-contracts) |
-| **Funcds Distribution** | [**_Decentraland Marketplace Contracts_**](https://github.com/decentraland/marketplace-contracts) |
 
 <br>
 
@@ -108,13 +83,6 @@ The Marketplace is the go-to place to trade and manage all your Decentraland on-
 
 <br>
 
-- **Supported Blockchains :**
-
-  - [Ethereum](https://ethereum.org/en/)
-  - [Polygon](https://polygon.technology/)
-  - Decentraland uses the Ethereum blockchain to record the ownership of all digital assets and tradable items.
-
-  <br>
 
 - **_Seller Fee :_**
 
@@ -258,11 +226,6 @@ The Marketplace is the go-to place to trade and manage all your Decentraland on-
 
   <br>
 
-- **_Staking :_**
-
-  - It does not offer staking for NFTs but you can stake your mana to earn mana
-
-  <br>
 
 ---
 
