@@ -172,7 +172,7 @@ About $18 billion of the trading volume on the platform, or about 95% of the tot
 
 | Contracts :             |         Details :          |
 | ----------------------    | ------------------------ |
-| **FETH**                  | _[ERC-20 token](https://eips.ethereum.org/EIPS/eip-20) modeled after [WETH9](https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2#code) |
+| **FETH**                  | _[ERC-20 token](https://eips.ethereum.org/EIPS/eip-20) modeled after [WETH9](https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2#code)_ |
 | **Market**                | _[Contract](/docs/FNDNFTMarket.md) which allows traders to buy and sell NFTs_ |
 | **OpenZeppelin Contracts**| _Dependencie [OpenZeppelin Contracts](https://openzeppelin.com/contracts/)_ |
 | **Royalty Registry**      | _Dependencie [Royalty Registry](https://royaltyregistry.xyz/)_ |
