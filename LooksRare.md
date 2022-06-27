@@ -67,7 +67,7 @@ About $18 billion of the trading volume on the platform, or about 95% of the tot
 | Parameters :                        | Details :                        |
 | ----------------------------------- | -------------------------------- |
 | **Supported Blockchains :**         | Ethereum                         |
-| **Payment Methods :**               | ETH/WETH, Look                         |
+| **Payment Methods :**               | ETH/WETH                         |
 | **Buyer Fee :**                     | 0%                               |
 | **Seller Fee :**                    | 2% excluding private sales.  [[Link]](https://docs.looksrare.org/about/rewards/platform-fee) | 
 | **Royalties :**                     | true [[Link]](https://www.business2community.com/nft/best-marketplaces/looksrare-review) |
