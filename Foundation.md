@@ -49,7 +49,7 @@ The Foundation is a NFT marketplace which was invite only in its beginning (by g
 | Parameters :                        | Details :                        |
 | ----------------------------------- | -------------------------------- |
 | **Supported Blockchains :**         | _Ethereum_ |
-| **Payment Methods :**               | _Ethereum_ |
+| **Payment Methods :**               | _ETH_ |
 | **Creator Fee :**                   | _Percentage: 5%_  |
 | **Seller Fee :**                    | _Percentage: 15%_ |
 | **Royalties :**                     | _Percentage: 10%_ |
