@@ -81,8 +81,8 @@ About $18 billion of the trading volume on the platform, or about 95% of the tot
 | **Decentralization :**              | Yes       |
 | **Ownership :**                     | 0xbfb6669ef4c4c71ae6e722526b1b8d7d9ff9a019[[Link]](https://etherscan.io/address/0x59728544b08ab483533076417fbbb2fd0b17ce3a#readContract)       |
 | **Licensing :**                     | _MIT[[Link]](https://etherscan.io/address/0x59728544b08ab483533076417fbbb2fd0b17ce3a#code)_       |
-| **Governance :**                    | No[Stake LOOKS](https://looksrare.org/rewards)       |
-| **Staking :**                       | _true_       |
+| **Governance :**                    | No      |
+| **Staking :**                       | _true_ [[Stake LOOKS]](https://looksrare.org/rewards)       |
 | **KYC :**                           | _Twitter,Instagram, Discord_       |
 | **Company Registration :**          | No    |
 | **Community Engagement :**          | Good    |
