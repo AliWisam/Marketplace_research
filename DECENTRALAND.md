@@ -20,6 +20,8 @@
 ## **_Introduction_** :
 
 The Marketplace is the go-to place to trade and manage all your Decentraland on-chain assets.
+![image](https://user-images.githubusercontent.com/66880814/175871595-bcbcc10a-dea2-4f8c-9a25-5faa37888fac.png)
+
 
 ### The Marketplace allows you to:
 
