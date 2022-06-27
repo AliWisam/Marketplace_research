@@ -122,6 +122,10 @@ The Marketplace is the go-to place to trade and manage all your Decentraland on-
     - LAND within Decentraland is represented by non-fungible LAND tokens (meaning that each is unique and cannot be replicated) that track ownership on the Ethereum blockchain.
       Owning LAND within Decentraland is akin to owning any other unique, crypto asset like [CryptoKitties](https://www.cryptokitties.co/) or [CryptoPunks](https://www.larvalabs.com/cryptopunks), however you will be able to use your LAND within Decentraland to build three dimensional spaces and applications.
       LAND is built on our [ERC721](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/) standard, making it a digital asset that can be traded with other users, like other digital assets.
+      
+      <br>
+      ![image](https://user-images.githubusercontent.com/66880814/175871867-a7821b17-5bf4-437d-b84f-a750b04e9af4.png)
+
 
     <br>
 
@@ -131,6 +135,11 @@ The Marketplace is the go-to place to trade and manage all your Decentraland on-
     - These unique human-readable names allow users to trade tokens between memorable addresses, e.g. ‘jane.dcl.eth’.
 
       <br>
+      
+      ![image](https://user-images.githubusercontent.com/66880814/175871797-ef621936-538c-4aca-9b78-0e84e67942c4.png)
+
+
+      <br>
 
   - Wearables :
 
@@ -138,7 +147,8 @@ The Marketplace is the go-to place to trade and manage all your Decentraland on-
     - There is a selection of default wearables that are freely available to all avatars, but Decentraland also supports the creation and use of custom wearables that are represented by non-fungible tokens (or NFTs).
     - This allows a finite amount of different wearables to be created, or minted, on the blockchain, similar to the LAND.
       -By default, Decentraland Wearables are minted on the Polygon/Matic sidechain so users can mint, buy, sell, or transfer items without having to pay gas fees.<br>
-
+      ![image](https://user-images.githubusercontent.com/66880814/175871945-53595813-d5c1-4ad4-b8d5-1e01eee2697e.png)
+        <br>
   - Emotes:
 
     - Decentraland has introduced a set of programmable moves to add a little flair to proceedings.
