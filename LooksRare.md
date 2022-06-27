@@ -132,6 +132,7 @@ About $18 billion of the trading volume on the platform, or about 95% of the tot
 |Tiers|[Read here](https://docs.looksrare.org/guides/faqs/what-is-the-looks-airdrop#tiers)|
 |LOOKS Token Contract|[0xf4d2888d29d722226fafa5d9b24f9164c092421e](https://etherscan.io/address/0xf4d2888d29d722226fafa5d9b24f9164c092421e#code)|
 
+<img src="https://i.imgur.com/DPCmSOM.png" width="500" >
 
 
 ## What Is Explicit Content?
@@ -144,6 +145,8 @@ About $18 billion of the trading volume on the platform, or about 95% of the tot
 |3|Discriminatory language such as racial slurs.|
 |What happens if my content is marked as explicit?|collection or individual NFT will not display on the explore page, or on the homepage of LooksRare|
 |Is it still tradeabel|Explicit items will still be tradeable and will be discoverable when searching for them directly in the search bar|
+<img src="https://i.imgur.com/x2a1fm7.png" width="750" >
+
 
 
 ## Glossary
