@@ -150,9 +150,7 @@ The Marketplace is the go-to place to trade and manage all your Decentraland on-
       
       <br>
       <br>
-      ![image](https://user-images.githubusercontent.com/66880814/175872435-1e299a97-3fa2-439b-9e3d-5c18590994f7.png)
 
-<br>
   - Emotes:
 
     - Decentraland has introduced a set of programmable moves to add a little flair to proceedings.
