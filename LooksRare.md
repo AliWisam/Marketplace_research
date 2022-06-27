@@ -86,6 +86,8 @@ About $18 billion of the trading volume on the platform, or about 95% of the tot
 | **KYC :**                           | _Twitter,Instagram, Discord_       |
 | **Company Registration :**          | No    |
 | **Community Engagement :**          | Good    |
+| Supported Standards.                | ERC1155, ERC721    |
+
 
 ---
 
