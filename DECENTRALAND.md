@@ -124,6 +124,7 @@ The Marketplace is the go-to place to trade and manage all your Decentraland on-
       LAND is built on our [ERC721](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/) standard, making it a digital asset that can be traded with other users, like other digital assets.
       
       <br>
+  ![image](https://user-images.githubusercontent.com/66880814/175872340-5e0416a9-33c0-4095-b5d9-399645c8c774.png)
 
 
     <br>
@@ -149,8 +150,9 @@ The Marketplace is the go-to place to trade and manage all your Decentraland on-
       
       <br>
       <br>
-      ![image](https://user-images.githubusercontent.com/66880814/175871945-53595813-d5c1-4ad4-b8d5-1e01eee2697e.png)
-        <br>
+      ![image](https://user-images.githubusercontent.com/66880814/175872435-1e299a97-3fa2-439b-9e3d-5c18590994f7.png)
+
+<br>
   - Emotes:
 
     - Decentraland has introduced a set of programmable moves to add a little flair to proceedings.
