@@ -80,7 +80,7 @@ About $18 billion of the trading volume on the platform, or about 95% of the tot
 | **Media Storage :**                 | True      |
 | **Decentralization :**              | Yes       |
 | **Ownership :**                     | _non Custodial_       |
-| **Licensing :**                     | _MIT[[Link]](https://etherscan.io/address/0x59728544b08ab483533076417fbbb2fd0b17ce3a#code)_       |
+| **Licensing :**                     | _You agree not to infringement copyright, trademark, service mark or patent._       |
 | **Governance :**                    | No      |
 | **Staking :**                       | _true_ [[Stake LOOKS]](https://looksrare.org/rewards)       |
 | **KYC :**                           | _Twitter,Instagram, Discord_       |
