@@ -249,16 +249,6 @@ The Marketplace is the go-to place to trade and manage all your Decentraland on-
 
 <br>
 
-- **_Minting NFT :_**
-
-<br>
-
-```javascript
-function mint() {
-  return "Congrats! You got your first NFT";
-}
-```
-
 <br>
 
 - **_Buying Process :_**
