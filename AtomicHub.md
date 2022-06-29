@@ -18,7 +18,7 @@
 
 ## _Introduction_ :
 
-Atomic Assets is developed by Pink Network — a group of blockchain enthusiasts active on the WAX and Proton blockchain. AtomicAssets is powered by the Eosio blockchain technology and Atomic Hub Marketplace is the platform to buy and sell NFTs. The portal is available to anyone for tokenizing and creating digital assets and to buy, sell or auction digital assets.
+Atomic Assets is developed by Pink Network — a group of blockchain enthusiasts active on the WAX and Proton blockchain. AtomicAssets is powered by the Eosio blockchain technology and Atomic Hub Marketplace is the platform to buy and sell NFTs. The portal is available to anyone for tokenizing and creating digital assets and to buy, sell or auction digital assets.AtomicHub is split into an Explorer that lets you browse through all the AtomicAssets NFTs, a Marketplace where you can buy and sell your NFTs, a Trading section, and perhaps most excitingly a NFT Creator. The NFT Creator allows anyone to create their own NFTs without any required coding knowledge.
 
 Atomic Assets was first launched in February 2020 and the Atomic Hub Marketplace for NFTs was launched in June 2020. At the date of 30 March 2021, Atomic Hub claims that over 9.2 million NFTs have been created on the WAX Blockchain on the platform.
 
@@ -35,7 +35,9 @@ Atomic Assets was first launched in February 2020 and the Atomic Hub Marketplace
 | ----------------------------------- | ---------------------------------------------------------------- |
 | **Blockchain :**                    | _WAX Blockchain_ , _Eosio blockchain_( _EOS_ )                   |
 | **Payment Methods :**               |  Credit Card, Paypal                                             |
+| **Listing Type/ Selling Methods :** | _Bid_,_Sale_,_Auction_                                            |
 | **Commission:**                     | _Percentage: 2%_                                                 | 
+| **Recommended Wallets :**           | _Anchor Wallet_,_Scatter Wallet_, _WAX_                          |
 | **Categories:**                     | Trading Cards, Collectibles                                      | 
 | **Community Engagement :**          | [Twitter](https://twitter.com/pinknetworkx), [Telegram](https://t.me/atomicassets)                  |
 | **NFTs**                            | Splinterlands, Alien Worlds, RPlanet, GPK Topps, KOGS Market     | 
@@ -106,6 +108,17 @@ Using the NFT Creator, anyone is able to create their own collections and mint t
 Admittedly, going through those steps for the first time is not super user friendly. However, we believe that the benefits of this more refined structure far outweigh the additional 5 minutes or so that it takes before you can create your first NFT. Also keep in mind that collections and schemas only have to be created once and can then be used over and over again in the future.
 
 Nevertheless, we already have plans to further simplify the process and we will put a lot of effort into making this process as easy to understand as possible.
+
+## Wallets
+## Anchor Wallet
+Use the Anchor Wallet to seamlessly and securely interact with any EOSIO-based blockchain. Anchor is a security and privacy focused open-source digital wallet for all EOSIO-based networks. Anchor uses modern approaches to ensure the security of your accounts. The use of strong encryption. A core principle considered in the design of Anchor is the need for privacy when using it.
+
+## Scatter Wallet
+Scatter Desktop is an open-source wallet for your digital currencies and assets. With the completion of months of work integrating our new Walletpack library, Scatter Desktop is better than ever. The built-in application explorer will help you discover new and exciting experiences possible only on the blockchain.
+
+## WAX
+The Worldwide Asset eXchange™ (WAX) is the world’s leading decentralized video game and entertainment network. We deliver the safest and most convenient way to create, buy, sell, and trade virtual items (NFTs) - to anyone, anywhere in the world. The WAX tokenomic model marries the explosive growth of NFTs with the superior monetization capabilities of DeFi.
+
 # From a developer’s perspective
 
 Happy developers are the first step for happy users. That’s why our focus when designing the AtomicAssets standard has always been to make it as powerful and versatile as possible, but without adding unnecessary complexity to deal with. But we haven’t just been working on the standard itself, we have also put a lot of work into the ecosystem surrounding it.
