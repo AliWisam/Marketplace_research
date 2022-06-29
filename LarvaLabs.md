@@ -69,15 +69,7 @@ Punks is one of the first Ethereum-based non-fungible tokens. These are algorith
 
 <br>
 
-| PROS :                              | CONS :                                                           |
-| ----------------------------------- | ---------------------------------------------------------------- |
-| **No service fees**                 | Limited NFT options                                              |
-| **Buy CryptoPunks and Meebits**     | V1 Punks controversy                                             |
-|                                     | Different design than most NFT marketplaces                      |
-|                                     | No NFT minting                                                   |
- 
----
-<br>
+
 
 ## **Working** :
 
@@ -181,6 +173,18 @@ This is the official and genuine image of all of the CryptoPunks that have been 
 <br>
 
 # What could be improved
+
+| PROS :                              | CONS :                                                           |
+| ----------------------------------- | ---------------------------------------------------------------- |
+| **No service fees**                 | Limited NFT options                                              |
+| **Buy CryptoPunks and Meebits**     | V1 Punks controversy                                             |
+|                                     | Different design than most NFT marketplaces                      |
+|                                     | No NFT minting                                                   |
+ 
+---
+<br>
+
+
 ## Limited NFT options
 This site only has two NFT collections available, and they're both lines of digital characters. If you want to shop for other types of NFTs, such as digital art or videos, this isn't the best NFT marketplace for you.
 
@@ -205,6 +209,7 @@ Because of how different it is, there's a bit of a learning curve to using the p
 
 ## No NFT minting
 Larva Labs is designed for buying and selling its own NFTs. It's not a place where you can mint NFTs of your own and list them for sale.
+
 
 ## Alternatives to consider
 
