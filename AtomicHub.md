@@ -20,7 +20,7 @@
 
 Atomic Assets is developed by Pink Network — a group of blockchain enthusiasts active on the WAX and Proton blockchain. AtomicAssets is powered by the Eosio blockchain technology and Atomic Hub Marketplace is the platform to buy and sell NFTs. The portal is available to anyone for tokenizing and creating digital assets and to buy, sell or auction digital assets.
 
-Atomic Assets was first launched in February 2020 and the Atomic Hub Marketplace for NFTs was launched in June 2020. At the date of first writing this review (30 March 2021), Atomic Hub claims that over 9.2 million NFTs have been created on the WAX Blockchain on the platform.
+Atomic Assets was first launched in February 2020 and the Atomic Hub Marketplace for NFTs was launched in June 2020. At the date of 30 March 2021, Atomic Hub claims that over 9.2 million NFTs have been created on the WAX Blockchain on the platform.
 
 ---
 
@@ -33,7 +33,7 @@ Atomic Assets was first launched in February 2020 and the Atomic Hub Marketplace
 
 | Parameters :                        | Details :                                                        |
 | ----------------------------------- | ---------------------------------------------------------------- |
-| **Blockchain :**                    | _WAX Blockchain_ ,   _EOS_                                       |
+| **Blockchain :**                    | _WAX Blockchain_ , _Eosio blockchain_( _EOS_ )                   |
 | **Payment Methods :**               |  Credit Card, Paypal                                             |
 | **Commission:**                     | _Percentage: 2%_                                                 | 
 | **Categories:**                     | Trading Cards, Collectibles                                      | 
