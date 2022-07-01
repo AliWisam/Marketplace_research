@@ -64,8 +64,8 @@ The Marketplace is the go-to place to trade and manage all your Decentraland on-
 | **Max File Size :**                 | _15 MB_                                                  |
 | **Media Storage :**                 | _BitTorrent and Kademlia DHT networks_                                                                                                                  |
 | **Decentralization :**              | _Yes_                                                                                                                                                   |
-| **Ownership :**                     | _Community Owned_                                                                                                                                       |
-| **Licensing :**                     | _Open Source_                                                                                                                                           |
+| **Ownership :**                     | _Non custodial_                                                                                                                                         |
+| **Licensing :**                     | _No its all for use inside Decentraland_                                                                                                                                           |
 | **Governance :**                    | _Yes_                                                                                                                                                   |
 | **Staking :**                       | _No_                                                                                                                                                    |
 | **KYC :**                           | _No_                                                                                                                                                    |
