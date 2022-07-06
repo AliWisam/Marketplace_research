@@ -101,6 +101,8 @@ Below is a diagram depicting the marketplace states and transitions for the vari
 | :---------------------- | :------------------------: |
 | **FETH**                  | _[ERC-20 token](https://eips.ethereum.org/EIPS/eip-20) modeled after [WETH9](https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2#code)_ |
 | **Market**                | _[Contract](https://etherscan.io/address/0xcDA72070E455bb31C7690a170224Ce43623d0B6f#code#L1) which allows traders to buy and sell NFTs_ |
+| **FNDProtocol**                  | _[fnd-protocol
+](https://github.com/f8n/fnd-protocol/tree/main/contracts)_]
 | **OpenZeppelin Contracts**| _Dependencie [OpenZeppelin Contracts](https://openzeppelin.com/contracts/)_ |
 | **Royalty Registry**      | _Dependencie [Royalty Registry](https://royaltyregistry.xyz/)_ |
 
@@ -144,6 +146,17 @@ Each of the market tools have dependencies and interactions with the others. The
 
 It's easy to reach 100% code coverage, but much harder to know all these interactions work the way users will expect them too. Feedback along these lines is in scope for this contest.
 
+- **_adminAccountMigration:_**
+
+<br>
+
+```function adminAccountMigration(uint256[] ownedTokenIds, address originalAddress, address payable newAddress, bytes signature) external nonpayable
+```
+
+<br>
+
+Allows an NFT owner or creator and Foundation to work together in order to update the creator to a new account and/or transfer NFTs to that account.
+This will gracefully skip any NFTs that have been burned or transferred.
 
 
 - **_placeBid:_**
