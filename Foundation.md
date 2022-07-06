@@ -224,9 +224,12 @@ _An offer may be made for an NFT before it is minted, although we generally not 
 ## _Conclusion_ :
 
 - Uncomplicated and user-friendly interface.
+- Focused on-chain
 - 10% royalty goes to the wallet in which the NFT was originally minted.
-- High commission payments.
-- Payments are made via ETH only.
+- High commission Rate.
+- Payments are made via ETH only. 
+- No token of there Own
+- Free to use [protocol](https://os.foundation.app/protocol).   
 
 <br>
 
