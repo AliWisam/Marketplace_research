@@ -101,8 +101,7 @@ Below is a diagram depicting the marketplace states and transitions for the vari
 | :---------------------- | :------------------------: |
 | **FETH**                  | _[ERC-20 token](https://eips.ethereum.org/EIPS/eip-20) modeled after [WETH9](https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2#code)_ |
 | **Market**                | _[Contract](https://etherscan.io/address/0xcDA72070E455bb31C7690a170224Ce43623d0B6f#code#L1) which allows traders to buy and sell NFTs_ |
-| **FNDProtocol**                  | _[fnd-protocol
-](https://github.com/f8n/fnd-protocol/tree/main/contracts)_]
+| **FNDProtocol**                  | _[fnd-protocol](https://github.com/f8n/fnd-protocol/tree/main/contracts)_]|
 | **OpenZeppelin Contracts**| _Dependencie [OpenZeppelin Contracts](https://openzeppelin.com/contracts/)_ |
 | **Royalty Registry**      | _Dependencie [Royalty Registry](https://royaltyregistry.xyz/)_ |
 
