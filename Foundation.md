@@ -20,7 +20,7 @@
 
 ## _Introduction_ :
 
-The Foundation is a NFT marketplace which was invite only in its beginning (by geting high profile colerctors like [PleasrDAO](https://pleasr.org#) creaters or NFT for [tor](https://www.torproject.org) and [Edward Snowden](https://foundation.app/@Snowden) ) made it self a premium / trustable reputation through with it still distinguishes it self and charges its reseller 15%,Creator 5% with is double the fee of other marketplaces.
+The Foundation is a NFT marketplace which was invite only in its beginning (by getting high profile creators like [PleasrDAO](https://pleasr.org#) creator of NFT for [tor](https://www.torproject.org) and [Edward Snowden](https://foundation.app/@Snowden) ) made itself a premium / trustable reputation through with it still distinguishes itself and charges its reseller 15%, Creator 5% with is double the fee of other marketplaces. They have a focus on-chain and have made their [protocol](https://os.foundation.app/protocol) free to use. As of now they don’t have any token of their own to trade or invest in nor have they shown any interest it this, the Only token they use is the FETH a warped ETH to lock ETH for a limited time. 
 
 ---
 <br>
@@ -207,19 +207,17 @@ _The offer must not be expired and the NFT owned + approved by the seller or ava
 
 - **_makeOffer:_**
 
-<br>
 
 ```javascript
 function makeOffer(address nftContract, uint256 tokenId, uint256 amount) external payable returns (uint256 expiration)
 ```
 
----
+
 
 Make an offer for any NFT which is valid for 24-25 hours. The funds will be locked in the FETH token contract and become available once the offer is outbid or has expired.
 
 _An offer may be made for an NFT before it is minted, although we generally not recommend you do that. If there is a buy price set at this price or lower, that will be accepted instead of making an offer. `msg.value` must be &lt;= `amount` and any delta will be taken from the account&#39;s available FETH balance._
 
-<br>
 
 ## _Conclusion_ :
 
@@ -231,11 +229,6 @@ _An offer may be made for an NFT before it is minted, although we generally not 
 - No token of there Own
 - Free to use [protocol](https://os.foundation.app/protocol).   
 
-<br>
-
----
-
-<br>
 
 ## _Sources :_
 
@@ -247,13 +240,10 @@ _An offer may be made for an NFT before it is minted, although we generally not 
 - [code-423n4](https://github.com/code-423n4/2022-02-foundation#readme)
 - [Royalty Registry](https://royaltyregistry.xyz/)
 - [terms](https://foundation.app/terms)
+- [protocol doc](https://docs.foundation.app/docs/protocol)
+- [protocol github](https://github.com/f8n/fnd-protocol)
 
 
-<br>
-
----
-
-<br>
 
 ## _Resources_:
 
