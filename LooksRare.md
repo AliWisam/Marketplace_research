@@ -523,6 +523,18 @@ function calculateRoyaltyFeeAndGetRecipient(
 - LooksRare NFT marketplace offers unique features that set it aside from its competition. Only time will tell if these features will prevail, but at this point, it looks like LooksRare has a bright future in the NFT space. Buying and selling NFTs on LooksRare is as easy as using OpenSea and if you like rewards for trading NFTs, LooksRare might be worth taking a look at.
 
 ---
+## _Sources_:
+
+<br>
+
+- [NFT Recourses](https://github.com/gianni-dalerta/awesome-nft)
+- [Marketplaces Sheet](https://docs.google.com/spreadsheets/d/1Q_6GnX7DhFDBD4hHKaMUkesMIO9rxJx5ewcKVv4Tjag/edit)
+- [doc.looksrare](https://docs.looksrare.org)
+- [business2community.com](https://www.business2community.com/nft/best-marketplaces/looksrare-review)
+- [NFTdrops](https://nftdroops.com/marketplaces/looksrare/)
+- [ethrscan](https://etherscan.io/address/0xf4d2888d29d722226fafa5d9b24f9164c092421e#code)
+- [WETH](https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2#code)
+- [epi20](https://eips.ethereum.org/EIPS/eip-20)
 
 
 <br>
